@@ -1,0 +1,4028 @@
+Event
+mainpage screen pageview
+account screen pageview
+accounts screen pageview
+account click
+renameaccount account success
+renameaccount account error
+renameaccount account cancel
+cards click
+banner ghost account impression
+banner ghost account click
+onboarding next click
+onboarding finished
+onboarding prev click
+onboarding close button click
+quick action impression
+quick action click
+quick action drag
+switcher impression
+switcher click
+accounts settings click
+switcher accounts click
+bannerblocks impression
+bannerblocks click
+transactions impression
+performance custommetric
+depositproducts click
+errors impression
+retrywidgets impression
+subscription manager open from card description click
+subscription manager open from search click
+subscription manager subscription screen screen view
+subscription manager error screen screen view
+subscription manager subscription details screen view
+subscription manager how to unsubscribe click
+subscription manager unsubscribe link click
+subscription manager operation history click
+my payments main page screen view
+my payments chips click
+biom services switch bio screen screen view
+kbs biom auth consents bio consent result
+hot notification aggregation block information show
+chat block information click
+chat block information send
+compliance error phone transfer error click
+compliance error self transfer error click
+compliance error card error click
+compliance error requisites error click
+compliance error qr error click
+compliance error communal error click
+compliance error social payments error click
+compliance error foreign transfer error click
+compliance error precious metals purchase error click
+compliance error phone billing error click
+supercashback drum final screen screen view
+supercashback drum final screen motivation cta click
+supercashback drum alpha smart offer screen view
+supercashback drum alpha smart offer click
+supercashback drum alpha smart offer final screen screen view
+supercashback drum alpha smart offer final screen click
+longread offer from drum offer screen click
+change card design card select screen view
+change card design card select close
+change card design gallery screen view
+change card design gallery close
+change card design trainer widget click
+change card design preview design click
+change card design chose design click
+change card design designs by conditions screen view
+change card design designs by conditions close
+change card design designs by conditions click
+change card design error screen view
+chatv3 reaction get
+chatv3 reaction icon click
+chatv3 channel click
+chatv3 close button click
+chatv3 button click
+chatv3 button get
+chatv3 deeplink get
+chatv3 deeplink click
+chatv3 text error
+chatv3 text send
+chatv3 text resend
+chatv3 file resend
+chatv3 image resend
+chatv3 image send
+chatv3 history request
+chatv3 fetch request
+chatv3 text bubble long tap
+chatv3 text menu copy click
+chatv3 text menu share click
+chatv3 text menu delete click
+chatv3 image bubble long tap
+chatv3 image menu copy click
+chatv3 image menu share click
+chatv3 image menu delete click
+chatv3 file bubble long tap
+chatv3 file menu copy click
+chatv3 file menu share click
+chatv3 file menu delete click
+chatv3 bubble long tap
+chatv3 menu copy click
+chatv3 menu share click
+chatv3 menu delete click
+chatv3 menu reaction click
+chatv3 init request
+chatv3 chips get
+chatv3 chip click
+chatv3 settings request
+chatv3 hints request
+chatv3 voice send
+chatv3 voice swipe
+chatv3 voice click
+chatv3 video preview get
+chatv3 video preview click
+universal support info chat universal chat screen entry button click
+chatv3 error error
+chatv3 file send
+chatv3 file message send
+chatv3 file click
+chatv3 sender icon click
+chatv3 quote send
+chatv3 quote click
+chatv3 welcome page get
+chatv3 welcome page click
+chatv3 promo selector get
+chatv3 promo selector click
+chatv3 delete button click
+chatv3 cancel button click
+chatv3 calendar get
+chatv3 calendar click
+chatv3 button close click
+chatv3 reset button click
+chatv3 confirm button click
+chatv3 tips click
+chatv3 sticker send
+chatv3 sticker click
+chatv3 sticker selector open
+chatv3 play video click
+chatv3 video get
+chatv3 bubble long click
+chatv3 dynamic field get
+chatv3 message get
+chatv3 selector get
+chatv3 selector click
+chatv3 selector send
+chatv3 voice assistant finish
+chatv3 voice assistant change
+chatv3 reaction click
+card details card reissue new click
+card reissue redisign card type reissue select
+card reissue redisign digital reissue impression
+card reissue redisign digital reissue click
+card reissue redisign city select
+card reissue redisign city delivery error
+card reissue redisign address delivery select
+card reissue redisign address delivery error
+card reissue redisign delivery type button select
+card reissue redisign metro delivery select
+card reissue redisign office delivery select
+card reissue redisign reissue confirmation click
+card reissue redisign courier delivery date select
+card reissue redisign courier delivery slot select
+card reissue redisign reissue registration click
+card reissue redisign plastic reissue click
+card reissue redisign reissue confirm click
+card reissue redisign reissue confirm error error
+card reissue redisign reissue result screen success
+card reissue redisign reissue click
+card reissue redisign reissue result screen error screen view
+savings goal category screen screen view
+savings goal account info click
+savings goal info sheet screen view
+savings goal info sheet pdf click
+savings goal category screen back click
+savings goal category screen click
+savings goal settings screen view
+savings goal settings back click
+savings goal settings click
+savings goal result screen screen view
+savings goal result screen click
+savings goal goal widget view
+savings goal goal widget click
+savings goal goal view screen view
+savings goal max accounts alert screen view
+deposit сlosure conditions screen view
+deposit сlosure conditions click
+deposit closure conditions back click
+deposit сlosure conditions back click
+deposit сlosure confirmation screen view
+deposit сlosure confirmation click
+deposit сlosure confirmation back click
+deposit сlosure alert screen view
+deposit сlosure alert click
+deposit closure result screen screen view
+deposit closure result screen click
+deposit closure recommendation screen view
+deposit closure recommendation click
+salary moneybox settings screen view
+salary moneybox settings back click
+salary moneybox info sheet click
+salary moneybox info sheet screen view
+salary moneybox info sheet pdf click
+salary moneybox settings click
+salary moneybox result screen screen view
+salary moneybox result screen click
+salary moneybox moneybox widget view
+salary moneybox moneybox widget click
+bonus rate up landing new screen view
+bonus rate up landing new back click
+bonus rate up landing new click
+bonus rate up result screen screen view
+bonus rate up result screen click
+bonus rate up bonus detail screen view
+bonus rate up bonus detail click
+bonus rate up bonus detail back click
+bonus rate up landing maintain screen view
+bonus rate up landing maintain click
+bonus rate up landing maintain back click
+bonus rate up bonus about screen view
+bonus rate up history screen view
+bonus rate up stage success screen view
+bonus rate up rate up widget screen view
+bonus rate up rate up widget click
+bonus rate up rate up your rate screen view
+bonus rate up rate up your rate click
+bonus rate up account selection screen view
+bonus rate up account selection click
+open account bonus rate up banner click
+open account bonus rate up bottom sheet screen view
+showcase offers impression
+showcase offers click
+millionaire landing landing new screen view
+millionaire landing landing new click
+millionaire landing result screen screen view
+millionaire landing landing new button click
+millionaire millionaire widget screen view
+millionaire millionaire widget click
+millionaire landing landing maintain screen view
+smart camera button click
+smart camera camera scan
+smart camera external url screen view
+smart camera external url click
+ofd receipts camera scanner screen view
+ofd receipts camera button click
+ofd receipts camera camera error error
+smart camera for metering scanner screen view
+smart camera for metering button click
+smart camera for metering metering screen screen view
+smart camera for metering camera error error
+upgrades widget credits widget impression
+upgrades widget credits widget click
+upgrades widget button click
+search chat search chat open click
+search chat search chat close click
+search chat search chat query cleaning click
+search chat search chat result click
+search chat search chat choice click
+search chat search chat error submit
+chatv3 scroll button click
+global search search card choice click
+global search search history click
+global search search error submit
+global search search popular click
+global search search provider action click
+global search search result submit
+global search search view all click
+global search search from history click
+global search search from payments click
+global search search from marketplace click
+global search search from main click
+global search search widgets status impression
+global search search choice click
+global search search no results submit
+global search search account choice click
+search claim search claim choice click
+search claim search claim no result submit
+search claim search claim query click
+search claim chat forwarding click
+search claim search claim error submit
+search claim search claim query cleaning click
+search claim search claim close click
+search channels open click
+search channels close click
+search channels query cleaning click
+search channels result impression
+search channels tab choice click
+search channels search choice click
+search channels search error submit
+search channels search choice error click
+smart search result impression
+smart search search choice click
+smart search info click
+permissions notifications permission screen impression
+permissions notifications permission screen click
+permissions system notifications permission screen click
+notification center notifications channel retry button click
+auth page viewing page impression
+auth page enter passcode field change
+auth page passcode send click
+auth page enter temppassword field change
+auth page temppassword send click
+widget youth view impression
+widget youth view click
+credit self restrictions main page button click
+phone bank transfer banner impression
+phone bank transfer banner click
+advices banner impression
+advices banner click
+advices banner close
+result screen advice banner impression
+result screen advice banner click
+advices sidepanel click
+advices sidepanel open
+advices sidepanel view
+marketplace banner strip impression
+marketplace banner strip click
+passport page project loading passport open
+passport page factors availability choose
+passport page pincode activate request
+passport page pincode activate response
+passport page screen screen view
+passport page button  bank click
+passport page button logout click
+passport page button biometrics click
+passport page button erase click
+passport page button forgot code click
+passport page button other way click
+passport page button close click
+passport page secret code enter
+passport page button forward click
+passport page pincode authorization request
+passport page pincode authorization response
+passport page pincode finish authorization request
+passport page pincode finish authorization response
+passport page redirect to page navigate
+passport page authorization code success
+passport page button login and password click
+passport page phone number enter
+passport page phone registration customer request
+passport page phone registration customer response
+passport page akey authorization request
+passport page akey authorization response
+passport page button log in click
+passport page button log in by phone number click
+passport page button log in by pincode click
+passport page challenge request
+passport page challenge response
+passport page webauthn authorization request
+passport page webauthn authorization response
+passport page screen 404 screen view
+passport page button scan click
+passport page scanner screen view
+passport page card number click
+passport page card number enter
+passport page register customer request
+passport page register customer response
+passport page button passcode click
+passport page button temp password click
+passport page button contact the bank click
+passport page button go to chat click
+passport page button start call click
+passport page button another contacts click
+passport page button no card click
+passport page code enter
+passport page finish customer registration request
+passport page finish customer registration response
+passport page button get code again click
+passport page reference request
+passport page reference response
+passport page button back to enter code click
+passport page button different type of code click
+passport page bottom sheet screen view
+passport page checkbox passcode click
+passport page passcode enter
+passport page button continue click
+passport page passcode authorize request
+passport page passcode authorize response
+deeplink sourсe click
+widget customer products widget click
+change credit card limit combo-second-step-0 screen view
+user_input comba-limit-input click
+standart combo-second-step-0 click
+change credit card limit combo-second-step-1 screen view
+user_input comba-card-fin-defence click
+change credit card limit open document click
+user_input comba-card-sale-to-third-party click
+user_input comba-card-advertising click
+standart combo-second-step-1 click
+polling screen polling attempt success finish
+universal transfer confirmation continue transfer click
+result screen screen view result screen
+standard credit-limit-no-cards screenview
+partners promotions popup region agreement click
+partners promotions popup region cancel click
+partners promotions popup region close click
+partners promotions main change region click
+partners promotions category change region click
+partners promotions offer screen view
+partners promotions category screen view
+partners promotions search region change click
+partners promotions search region screen impression
+partners promotions search region screen choose
+partners promotions search region screen back
+partners promotions search region screen click
+partners promotions search region history click
+partners promotions bonus join uds click
+partners promotions bottom of the uds view
+partners promotions main screen view
+partners promotions category icon view
+partners promotions category icon click
+partners promotions participation history screen view
+partners promotions participation history impression
+partners promotions promotion view
+partners promotions split screen screen view
+partners promotions split screen click
+partners promotions loader page screen view
+partners promotions loader page error
+partners promotions partner welcome screen click
+partners promotions partner welcome screen check list apply
+partners promotions partner welcome screen details click
+partners promotions search search
+partners promotions search impression
+partners promotions search click
+partners promotions search history click
+partners promotions error screen button click
+partners promotions error screen view
+partners promotions offer copy
+partners promotions offers compilation impression
+partners promotions promotion offer impression
+partners promotions offer screen close
+partners promotions promotion offer map click
+partners promotions promotion offer share click
+partners promotions promotion offer favourite add
+partners promotions promotion offer favourite remove
+partners promotions promotion offer share modal click
+partners promotions promotion offer share result click
+partners promotions participation history new click
+partners promotions participation history new list scroll
+partners promotions participation history new filters click
+partners promotions participation history new list click
+partners promotions participation history new info click
+partners promotions participation history new detail click
+partners promotions banner view
+partners promotions banner click
+partners promotions partner ad view
+bil preorder polling animation view screen view
+bil start screen screen view
+bil start screen click
+bil preorder polling click
+bil preorder polling static view click
+bil preorder polling static view screen view
+bil preorder polling static click
+bil refusal view click
+bil refusal view screen view
+bil refusal click
+bil complience not passed view click
+bil complience not passed view screen view
+bil complience not passed click
+bil first conditions view click
+bil first conditions view screen view
+bil first conditions click
+bil select offer click
+bil amount input enter
+bil terms click
+bil info button click
+bil insurance terms click
+bil conditions click
+bil income and expenses screen view
+bil income and expenses enter
+bil income and expenses click
+bil income and expenses save click
+bil income and expenses back click
+bil select account click
+bil first conditions next click
+bil premfo polling animation view screen view
+bil premfo polling click
+bil premfo polling animation click
+bil not found inn view click
+bil not found inn view screen view
+bil not found inn click
+bil found self-ban view click
+bil found self-ban view screen view
+bil found self-ban click
+bil disable self-ban click
+bil confirmation view click
+bil confirmation view screen view
+bil confirmation view enter
+bil download document click
+bil document list click
+bil details confirmation click
+bil confirmation click
+bil sms confirmation screen view
+bil approved sum screen view
+bil approved sum click
+bil signed screen view
+bil signed click
+restructuring bil widget screen view
+restructuring bil widget click
+restructuring bil time interval screen view
+restructuring bil marketing screen screen view
+restructuring bil marketing screen click
+restructuring bil tab choice screen view
+restructuring bil tab choice click
+restructuring bil conditions click
+restructuring bil final check click
+restructuring bil final check view screen view
+restructuring bil final conditions screen view
+restructuring bil final conditions click
+restructuring bil decline click
+restructuring bil сompleted screen view
+discount bil debts collection widget click
+discount bil discount details click
+card order third party offers screen view
+card order third party flow type select
+card order third party showcase screen view
+card order third party showcase product details click
+card order third party client card click
+card order third party process error impression
+card order third party select account screen view
+card order third party select account impression
+card order third party client short form screen view
+card order third party client short form impression
+card order third party passport details screen view
+card order third party passport details impression
+card order third party birth certificate details screen view
+card order third party birth certificate details impression
+card order third party recipient screen view
+card order third party recipient impression
+card order third party delivery screen view
+card order third party delivery impression
+card order third party screen number screen view
+card order third party screen number impression
+card order third party confirm screen screen view
+card order third party confirm screen confirm
+card order third party confirm screen click
+card order third party share click
+card order third party client short form error
+ travel main load screen view
+ travel main tab click
+ travel main log in click
+ travel main promotion click
+ travel main promotion offer click
+ travel main promotion offer action
+ travel main order card order
+ travel main question link click
+ travel main faq expand
+ travel main faq click
+ travel main profile click
+ travel auth modal screen view
+ travel auth  id click
+ travel auth sign up button click
+ travel auth forget password button click
+ travel auth login button click
+ travel auth login error
+ travel auth password error
+ travel auth sign up form click
+ travel auth sign up form error
+ travel auth sign up form success
+ travel password create save button click
+ travel password create login error
+ travel password create password error
+ travel password create log in screen view
+ travel password create log in click
+ travel avia search search history click
+promocodes welcome page promocodes click
+cashback promocodes widget click
+promocodes list add click
+promocodes list details click
+promocodes list faq click
+promocodes list empty list screen view
+promocode details deeplink button click
+promocode details information button click
+promocodes bottomsheet add click
+promocodes welcome page promocodes screen view
+promocodes list promocodes screen view
+promocode details promocodes screen view
+promocodes list faq screen view
+promocodes bottomsheet add screen view
+promocodes bottomsheet add error
+promocodes api error
+promocodes api success
+promocodes list promocodes list history screen view
+promocodes welcome page details click
+promocode details faq click
+promocodes welcome page no promocodes error screen view
+promocodes welcome page many promocodes error screen view
+ travel loyalty loyalty screen view
+ travel loyalty success screen screen view
+ travel loyalty empty screen screen view
+ travel loyalty activate button click
+ travel loyalty error screen screen view
+ travel loyalty privilege details screen view
+ travel loyalty privilege details button click
+ travel loyalty success screen button click
+ travel loyalty empty screen button click
+ travel loyalty external deeplink redirect
+ travel loyalty error page screen view
+ travel loyalty loyalty travel api error
+ travel loyalty redirect main button click
+ travel loyalty loyalty travel api success
+reports main screen view
+reports type of certificate click
+reports certificate name click
+reports certificate name screen view
+reports period click
+reports get certificate click
+reports middle screen screen view
+reports middle screen button click
+reports ready list certificates screen view
+reports download certificate button click
+card closing button view
+card closing multistep button view
+card closing multistep button click
+account details screen view
+account closing button view
+account closing button click
+account closing multistep button view
+account closing multistep button click
+account closing multistep account closing multistep screen screen view
+account closing multistep account closing via chat click
+account closing multistep account closing via ip call click
+keepers banner retention impression
+keepers banner open retention bottom sheet click
+keepers sheet continue transfer click
+keepers sheet customize deposit click
+keepers sheet show sheet screen view
+safeboxes details screen view
+safeboxes details click
+safeboxes first step screen view
+safeboxes first step click
+safeboxes second step screen view
+safeboxes second step click
+safeboxes to profile click
+safeboxes final success
+safeboxes final fail
+safebox safe landing impression
+safebox safe landing click
+safebox city select impression
+safebox city select click
+safebox safe size select impression
+safebox safe size select click
+safebox branch select impression
+safebox branch select click
+safebox branch safe size select impression
+safebox branch safe size select click
+safebox confirmation impression
+safebox confirmation click
+safebox passcode impression
+safebox result success
+widget payment notification widget view
+widget payment notification widget click
+premium service aclub aclub service screen view
+premium service aclub premium status impression
+premium service aclub premium status click
+premium service aclub premium status screen view
+premium service aclub levels impression
+premium service aclub levels click
+premium service aclub levels screen view
+premium service aclub aclub widget screen view
+premium service aclub aclub widget click
+premium service aclub lounges compensation screen view
+premium service aclub lounges compensation click
+widget aclub widget impression
+premium service aclub all offers click
+premium service aclub all offers impression
+aclub manager personal manager impression
+aclub manager personal manager click
+aclub manager personal manager screen view
+premium service aclub call to bank click
+premium service aclub chat forwarding click
+premium service aclub aml click
+premium service aclub aml screen view
+premium service aclub insurance click
+premium service aclub aclub carousel screen view
+precious metals showcase landing screen screen view
+precious metals showcase landing screen click
+precious metals showcase showcase coins screen view
+precious metals showcase showcase coins offer click
+precious metals showcase showcase detailed coins click
+precious metals showcase showcase detailed coins screen view
+precious metals showcase showcase detailed coins close click
+precious metals showcase showcase coins add click
+precious metals showcase showcase coins remove click
+precious metals showcase showcase coins to order click
+precious metals showcase showcase coins city select click
+precious metals showcase showcase coins branch select click
+precious metals showcase showcase coins order screen view
+precious metals showcase showcase coins order click
+precious metals showcase showcase coins order info click
+precious metals showcase showcase coins order rules click
+precious metals showcase showcase coins order success screen view
+precious metals showcase showcase coins order error screen view
+precious metals showcase showcase metals screen view
+precious metals showcase showcase metals offer click
+precious metals showcase showcase metals add click
+precious metals showcase showcase metals remove click
+precious metals showcase showcase metals to order click
+precious metals showcase showcase metals city select click
+precious metals showcase showcase metals branch select click
+precious metals showcase showcase metals order screen view
+precious metals showcase showcase metals order click
+precious metals showcase showcase metals order info click
+precious metals showcase showcase metals order rules click
+precious metals showcase showcase metals order success screen view
+precious metals showcase showcase metals order error screen view
+widget onboarding products widget impression
+widget onboarding products widget click
+widget onboarding products widget hide
+onboarding screen article action click
+onboarding screen article action close
+transaction confirmation enough money screen view
+transaction confirmation not enough money screen view
+transaction confirmation confirm operation click
+transaction confirmation cancel operation click
+transaction confirmation transfer money click
+transaction confirmation close operation click
+transaction confirmation timeout screen view
+transaction confirmation timeout click
+transaction confirmation confirmation error screen view
+transaction confirmation confirmation error click
+transaction confirmation already cancelled error screen view
+transaction confirmation already cancelled error click
+result screen cross button click
+individual salary landind loaded screen view
+individual salary selftransfer way click
+individual salary faq button click
+individual salary calculation start click
+individual salary main page button click
+individual salary profile salary screen loaded screen view
+individual salary refill click
+individual salary autorefill click
+individual salary conditions button click
+individual salary income transfer agreement start loaded screen view
+individual salary next click
+individual salary start basic conditions click
+individual salary income transfer calculation start loaded screen view
+individual salary calculate conditions click
+individual salary go to gosuslugi btn click
+individual salary accounting statement start screen loaded screen view
+individual salary salary apply start offline click
+individual salary salary apply start online click
+individual salary antislavery btn click
+individual salary open faq screen view
+individual salary open faq question click
+individual salary create application create
+individual salary basic conditions start screen screen view
+individual salary autorefill basic conditions click
+reports action view
+reports title view
+reports result view
+reports history view
+session created
+session start
+suggestion view
+suggestion interface click
+suggestion like click
+suggestion like cancel
+suggestion dislike click
+suggestion dislike cancel
+suggestion copy click
+suggestion copy
+suggestion new suggest click
+session attention click
+operator section open
+operator search request
+operator quick response click
+suggestion instructions view
+suggestion instructions click
+operator instructions options click
+instructions link click
+personal templates created click
+personal templates updated click
+suggestion link click
+operator options click
+suggestion rephrase click
+suggestion rephrase cancel
+email change screen view
+email change prompt click
+email change save
+email change success screen view
+Email change Error Screen View
+Email change Resend verification link Click
+User profile Codeword Click
+Codeword change Form error Screen View
+Codeword change Form error button Click
+Codeword change Form Screen View
+Codeword change New codeword Error
+Codeword change Continue button Click
+Codeword change Cancel application Click
+Codeword change Pop up Impression
+Codeword change Pop up button Click
+Codeword change Conditions Screen View
+User profile My address Click
+Address change Form error Screen View
+Address change Form error button Click
+Passport change Camera Screen View
+Address change Form Screen View
+Address change Map Screen View
+Address change Map navigate Click
+Address change Field Click
+Address change Field Error
+Address change Confirmation Click
+Address change Null coordinate Error
+Address change Final screen View
+TIN Chat support Click
+TIN Validation error Error
+Alert remind Screen Screen View
+Alert remind Button update Click
+Alert remind Button remind Click
+Alert remind Button cancel Click
+Passcode manage Suggestion View
+Passcode manage Suggestion Click
+Passcode manage Creation View
+Passcode manage Creation Click
+Passcode manage Verification View
+Passcode manage Verification Click
+Passcode manage Forgetting View
+Passcode manage Forgetting Click
+Passcode manage Change View
+Passcode manage Change Click
+Passcode manage Change error View
+Passcode manage Change error Click
+Passcode manage Update keys Send
+Operation sign Smart ID Sign
+Operation sign Smart ID View
+Operation sign Smart ID Click
+Operation sign Block View
+Operation sign Block Click
+Device manage List View
+Device manage List Click
+Device manage Details View
+Device manage Details Click
+Device manage Reasons list View
+Device manage Reasons list Click
+Device manage Passcode check View
+Device manage Passcode check Click
+Device manage Result View
+Device manage Result Click
+Device manage Passcode forgotten View
+Device manage Passcode forgotten Click
+Device manage Statuses hint View
+Device manage Statuses hint Click
+Branch operations Details View
+Branch operations Details Click
+Branch operations Result View
+Branch operations Result Click
+List of signed documents List View
+List of signed documents List Click
+List of signed documents List Update
+Passcode settings Change form View
+Passcode settings Change form Click
+Passcode settings Info screen View
+Passcode settings Info screen Click
+Passcode settings Result View
+Passcode settings Result Click
+IMSI Confirmation Modal Window Open
+IMSI Confirmation Modal Window Close
+IMSI Confirmation Alert Click
+IMSI Confirmation Nothing Changed Button Click
+IMSI Confirmation Confirmation Click
+IMSI Confirmation Call to bank Click
+IMSI Confirmation Call to manager Click
+IMSI Confirmation Result Screen Success
+IMSI Confirmation Result Screen Error
+IMSI Confirmation Result Screen Reject
+Marketplace Carousel card Impression
+Marketplace All products card Impression
+Marketplace Services item Impression
+Marketplace Screen View
+Marketplace Screen Close
+Marketplace Notifications Read
+Marketplace Bubble Impression
+Benefits Click
+Marketplace Page View
+Marketplace Carousel card Fail
+Marketplace Carousel card Hide
+Marketplace Carousel card Finish
+Bottom sheet advertiser Bottom sheet Impression
+Bottom sheet advertiser Bottom sheet Click
+Bottom sheet advertiser Bottom sheet Close
+Account Banner Impression
+Account Banner Click
+Whats new Multistep Open
+Whats new Multistep Click
+Whats new Multistep Close
+open_account_page page view
+open_account_page document click
+open_account_page link click
+open_account_page open_account_button click
+open_account_page modal view
+Investments Receive Code Submit
+open_account_page_sms_modal confirmation_code submit
+open_account_success_screen screen view
+open_account_success_screen refill_button click
+open_account_success_screen finish_button click
+Investments Account screen view
+Investments Refill click
+Investments Withdrawal click
+Investments Details click
+Investments Close click
+Investments Withdrawal screen view
+Investments Link click
+Investments Document click
+Investments SMS confirm
+Investments Result screen screen view
+Investments Result screen confirm
+Open investbox Main Screen View
+Open investbox Document Click
+Open investbox Learn more Click
+Open investbox Learn more Impression
+Open investbox Signing Click
+Open investbox Operation Screen View
+Open investbox Operation Success
+Open investbox Wait Screen View
+Open investbox Wait Reload
+Open investbox Loader Screen View
+Open investbox Loader Click
+Open investbox Banner Click
+Open investbox Offer Impression
+Open investbox Toggle Click
+Open investbox Offer Click
+Investbox auto replenishment Onboarding Info Screen View
+Investbox auto replenishment Onboarding Info Click
+Investbox auto replenishment Account validate Screen View
+Investbox auto replenishment Account validate Click
+Investbox auto replenishment Percent Screen View
+Investbox auto replenishment Percent info Click
+Investbox auto replenishment Percent Click
+Investbox auto replenishment Rounding disable Click
+Investbox auto replenishment Percent Error
+Investbox auto replenishment Result screen Screen View
+Investbox auto replenishment Pop-up Click
+Investments Account Reject
+Investments Account closure Screen View
+Investments Account closure button Click
+Investments Account closure signing Screen View
+Investments Account closure signing Confirm
+Investments Account closure signing Reject
+Investments Account closure Success
+Investments Account closure Finish
+Investments Account closure Fail
+Investments Account closure Repeat
+Metal account refill Form Screen View
+Metal account refill Toggle Click
+Metal account refill Suggest Click
+Metal account refill Button Click
+Metal account refill Confirmation Screen View
+Metal account refill Confirmation Click
+Metal account refill Operation Success
+Metal account refill No metal account Error
+Metal account refill Goto button Click
+Metal account refill Auto Payment Day Click
+Metal account refill Auto Payment Grams Click
+Open brokerage account with purchase Main Screen View
+Open brokerage account with purchase Main Click
+Open brokerage account with purchase Commission info Click
+Open brokerage account with purchase Process info Click
+Open brokerage account with purchase Commission Screen View
+Open brokerage account with purchase Process Screen View
+Open brokerage account with purchase Process Click
+Open brokerage account with purchase Final screen Screen View
+Open invest account Main Screen View
+Open invest account Continue opening Click
+Open invest account Benefit Click
+Open invest account Additional button Click
+Open invest account Operation Confirm
+Investments Main Screen View
+Longread Impression
+Longread Click
+Longread Close
+Investment account Main Screen View
+Investment account Asset View
+Investment account Asset Click
+Investment account Main Error
+Investment account Back button Back
+Investment account Current status Click
+Investment account Top up account Click
+Investment account Withdrawal Click
+Investment account Requisites Click
+Investment account Accounts details Click
+Investment account Close account Click
+Investment account Link Click
+Investment account Tab Click
+Investment account Balance Error
+Investment account Portfolio Error
+Investment account Operation history Screen View
+Investment account Operation history Click
+Investment account Ghost Offer Loaded Impression
+Investment account Take Ghost Offer Click
+Investment account Close Ghost Offer Click
+Investment account Empty portfolio Click
+Investments Tab Click
+Investments Asset Click
+Investments Banner Click
+Investments Filter Check
+Favorite Account Widget Take Ghost Offer Click
+Favorite Account Widget Close Ghost Offer Close
+Favorite Account Widget Ghost Offer Loaded Impression
+Carousel for you Banner View
+Carousel for you Banner Click
+Carousel for you Sidepanel Open
+Carousel for you Sidepanel Click
+Carousel for you Sidepanel Rate
+Carousel for you Carousel Impression
+Ghost banners Banners Impression
+Ghost banners Banners Click
+Ghost banners Banners Close
+Splash banners Banners Click
+Splash banners Banners Close
+navigation footer menu Click
+marketplace redirect_from_old_location click
+New product AO Button Click
+New product AO Relevant products Impression
+New product AO Relevant products Click
+New product AO Product Click
+Bottom sheet list Impression
+Bottom sheet action Click
+Ghost offers Offers Click
+Ghost offers Offers Close
+Ghost offers Offers Impression
+Main screen Referral Impression
+Main screen Cashback Click
+Main screen Cashback Impression
+Button banner Impression
+Button banner Click
+Button banner Open
+Button banner Close
+Widget Impression
+Widget Click
+Operations History Fake transaction impression Impression
+Operations History Fake transaction click Click
+Operations History Fake transaction close Close
+Main screen Promo Product Promo Impression
+Main screen Promo Product Promo Click
+My products Promo Product Promo Impression
+My products Promo Product Promo Click
+Longread AO Longread Impression
+Longread AO Action Button Click
+Longread AO Like Click
+Combo card Money source change Click
+Combo card Get limit Click
+Combo card credit-limit-income-info-combo Click
+Combo card Credit limit details Click
+Combo card Landing Screen view
+Combo card Landing get limit Click
+Combo card Landing back button Close
+Combo card credit-limit-external-combo Polling screen view
+Combo card Confirm limit Click
+Combo card credit-limit-accept-combo Screen view
+Combo card credit-limit-accept-combo Click
+Combo card Limit confirmation documents Click
+Combo card credit-limit-payment-method-combo Screen view
+Combo card credit-limit-payment-method-combo Click
+Combo card Sms confirmation Screen view
+Combo card Result screen Screen view
+Combo card Failed Screen Screen view
+Combo card Payment method change Click
+Combo card Payment method change Screen view
+Combo card Payment method change result view Screen view
+Combo card Signing additional agreement Screen view
+Combo card Additional agreement info Screen view
+Combo card Signing additional agreement Click
+Combo card Additional agreement sms confirmation Screen view
+Combo card Signing additional agreement result view Screen view
+Corporate new credit Page view
+Corporate new credit Button click
+Account restrictions Details screen view
+Account restrictions Question link click
+Account restrictions List screen view
+Change phone decline Screen View
+Change phone decline Button Click
+Apologetic gifts List Screen View
+Apologetic gifts List Click
+Apologetic gifts History button Click
+Apologetic gifts history List Screen View
+Apologetic gifts history List Click
+Apologetic gift details Item Screen View
+Apologetic gift details Conditions button Click
+Apologetic gift details Button banner Click
+Apologetic gift details Open Deeplink Button Click
+Apologetic gift details Payment details cashback Click
+Apologetic gift limit details List Screen View
+Apologetic gift limit details Open Deeplink Button Click
+Apologetic gift cashback services List Screen View
+Apologetic gift limit details Item Click
+Main tab bar Communications Click
+Communication Center Communications Loading Impression
+Communication Center Communications Retry Button Click
+Communication Center Support Channels Meta Loading Impression
+Communication Center Open Full Screen Video Player Click
+Communication Center Open Full Screen Image Click
+Communication Center Open Link Click
+Communication Center Open Markdown Link Click
+Communication Center Show Information Post Impression
+Communication Center Open image in media gallery Impression
+Communication Center Open video in media gallery Impression
+Communication Center Start play video Impression
+Communication Center Play video Click
+Communication Center Pause video Click
+Communication Center Mute video sound Click
+Communication Center Unmute video sound Click
+Communication Center Close media gallery Click
+Communication Center Select reaction button Click
+Communication Center Deselect reaction button Click
+Communication center Open bottom sheet Click
+Communication center Bottom sheet push toggle Click
+Communication center Bottom sheet counter toggle Click
+Communication center Expand longread Click
+Communication center Collapse longread Click
+Communication center Navigate to pinned message click Click
+Communication center Navigate to pinned message scroll Scroll
+Communication center Unpin messages Click
+Communication center Error unpin messages Error
+Communication center Cancel unpin messages Click
+Settings Settings Loading Impression
+Settings Settings Loading Click
+Communication center Poll vote Click
+Communication center Add favorite Click
+Communication center Delete favorite Click
+Communication Center Open error screen Impression
+Communication Center Close error screen Click
+Communication Center Error screen button click Click
+New Profile Settings Click Click
+Chats counter settings Settings click Click
+Channels counter settings Open screen Click
+Channels counter settings Settings click Click
+Channels counter settings All settings click Click
+Channels push settings Open screen Click
+Channels push settings Settings click Click
+Channels push settings All settings click Click
+Payments catalogue Subcategories list Open
+Payments catalogue Subcategory Choose
+Payments catalogue Providers list Impression
+Payments catalogue Provider Click
+Payments catalogue Provider list Load
+Payments catalogue Search Bar Click
+Payments catalogue QR Click
+Payments catalogue Search back button Click
+Payments catalogue Search result Impression
+Payments catalogue By requisites in search Click
+Payments catalogue Region Click
+Payments catalogue Region list Choose
+Payments catalogue Region list Search
+Payments catalogue Region Apply
+Payments catalogue Error Impression
+Issued Bills Bill Screen View
+Issued Bills Bill pay button Click
+Issued Bills Error Impression
+Issued Bills Payment result Screen View
+Issued Bills OTP Screen view
+Issued Bills OTP result View
+Issued Bills Bill delete Select
+Issued Bills Bill delete Confirm
+Issued Bills Bill details Change
+Issued Bills Button back Click
+Issued Bills Pay all Click
+Issued Bills Go to bundle payment Click
+Issued Bills Bundle payment pay Click
+Issued Bills Bundle payment results Impression
+Issued Bills Bundle payment error Impression
+Issued Bills Pay all widget Impression
+Tab bar Bubble Impression
+Payments Pay all button Impression
+Profile Link Click
+Profile Phone Click
+Navigation Logout Click
+Profile Screen Load
+Profile Change nickname Click
+Profile Settings Save
+User settings Password View
+User settings Password Close
+User settings Password Save
+User settings Password Success
+User settings Add photo Open
+User settings Add photo Close
+User settings Add photo Choose
+User settings Add photo Save
+User settings Add photo Success
+User settings Add photo Change
+User settings Add photo Delete
+User settings Add photo Error
+Profile Button Click
+Profile Section Expand
+Credit Button Click
+Credit Page View
+Credit Payments Select
+Carousel for you Banners Scroll
+Main Alert View
+Main Alert Close
+Main Alert Confirm
+Main Alert Cancel
+Main Alert Sign Out
+Main Alert Consent
+User settings Page Load
+Geo map Back button Click
+Geo map Pin Click
+Geo map Geolocation button Click
+Geo map Search Click
+Geo map Category Click
+Geo map Category chip Click
+Geo map List element Click
+Geo map Filter Open
+Geo map Show on map Click
+Geo map Filter Apply
+Geo map Filter Clean
+Geo map Search result Click
+Geo map Search result Error
+Geo map Details Open
+Geo map Promocodes Open
+Geo map More Click
+Geo map Address Copy
+Geo map Details screen button Click
+Geo map Geolocation permission Choose
+Webauthn registration Sidepanel View
+Webauthn registration Start registration button Click
+Webauthn registration Skip registration button Click
+Webauthn registration Retry button Click
+Webauthn registration Sidepanel Close
+Webauthn registration Delete button Click
+Webauthn registration Confirm Button Click
+Info widget Impression
+Info widget Button Click
+Info widget Slide Swipe
+External card details Main Screen View
+External card details Action Click
+External card details Name Click
+External card details Delete Click
+External card save Card save Click
+External card save Result Screen Click
+Service notifications Alert View
+Service notifications Alert Swipe
+Service notifications Alert Click
+Service notifications Alert Close
+Client limit metrics Open side panel button Click
+Client limit metrics Edit limit button Click
+Client limit metrics Delete limit button Click
+Client limit metrics Edit limit form View
+Client limit metrics Limit quick setting Click
+Client limit metrics Send limit form Click
+Client limit metrics Setup limit View
+Card blocking Init button Click
+Card blocking Confirmation Submit
+Card unblocking Init button Click
+Card unblocking Confirmation Submit
+Card settings Close side panel Click
+Accounts remap View
+Accounts remap Open new account link Click
+Accounts remap Accounts remap button Click
+Accounts remap Accounts remap submit button Click
+Accounts remap Accounts remap operation Submit
+Accounts remap Close accounts remap Click
+Accounts remap Accounts remap cell Click
+Credit conditions Conditions button Click
+Credit conditions Payment button Click
+Activation Pin input View
+Change pin Pin input View
+Activation Basic button Click
+Change pin Basic button Click
+Activation Code confirm Submit
+Change pin Code confirm Submit
+Settings Change phone button Click
+Settings Change phone confirm button Click
+Settings Change phone code confirm Submit
+Settings Activate button Click
+Settings Activate code confirm Submit
+Main Metrics Card requisites Click
+Close Close Account Success Screen view
+Card Cards Link Click
+Card Card Order Link Click
+Card Card Link Click
+Credit Payment Button Click
+Settings accelerometer Request permissions Click
+Settings accelerometer Permissions granted Click
+Settings accelerometer Permissions declined Click
+Settings accelerometer Enable global shake event Click
+Settings accelerometer Disable global shake event Click
+Main screen Bottom sheet Swipe
+Main screen Bottom sheet Click
+Main screen Bottom sheet Screen View
+Main screen ATM button Click
+Main screen Exchange Rate Click
+Main screen Product Click
+Main screen Product Screen View
+Main screen Error Screen View
+Main screen Product Impression
+My products Common balance Click
+My products Common balance eye Click
+My products Product category Click
+My products Product Screen View
+My products Error Screen View
+My products Sort Action
+My products Transfer money Action
+User settings Swape favourite Click
+User settings Button user settings Click
+User settings Button save Click
+Navigation bar Profile Click
+Navigation bar Scanner Click
+Navigation bar Settings Click
+Navigation bar Search Click
+Navigation bar Back button Click
+Mobile payment Button Screen View
+Mobile payment Button Click
+Transfer between accounts Error Screen View
+Unapproved operations Operation Click
+Branch operations Screen View Impression
+Branch operations Error Impression
+Branch operations Accept button Click
+Branch operations Cancel button Click
+Branch operations Back button Click
+Branch operations Map Click
+Branch operations Document Click
+Branch operations Success Impression
+Exchange rate Button Click
+Metal exchange rate Button Click
+Payments template Template create screen Screen View
+Payments template Template create screen Error
+Payments template Template create screen Click
+Payments template Template create button Error
+Payments template Template create success Show
+Payments template Template validation error Error
+Recommendations spoiler Banner Impression
+Recommendations spoiler Banner Open
+Recommendations spoiler Banner Close
+Recommendations spoiler Button Click
+Recommendations spoiler Banner Error
+Portrait Video Screen view
+Portrait Video Cross button Click
+Portrait Video Button Click
+Portrait Video Sound Change
+Stories banner redesign Banner Impression
+Stories banner redesign Banner Click
+Stories pages redesign Pages Impression
+Stories pages redesign Pages Navigate
+Stories pages redesign Pages Click
+Stories pages redesign Pages Close
+Stories pages redesign Pages Action
+Stories pages redesign Pages Activate
+Stories pages redesign Pages Long Tap
+Stories pages redesign Pages Error
+Stories pages redesign Pages Load
+Widget Stories widget Impression
+Widget Stories widget Click
+Widget Stories widget Error
+Result Screen Fail
+Result Screen Balance Hide
+Tab Close
+Voice of Client Pop up Screen View
+Voice of Client Pop up Close
+Voice of Client Pop up Click
+Voice of Client Pop up Confirm
+Voice of Client Pop up Fail
+Voice of Client Pop up Error
+Global search Icon Click
+Global search Recognition Error
+Onboarding Landing Screen Load
+ subscription owner Landing Screen View
+ subscription owner Landing Impression
+ subscription owner Account Screen View
+ subscription owner Account Select
+ subscription owner Account button Click
+ subscription owner Button Back
+ subscription owner Account validate error Screen View
+ subscription owner Account validate error button Click
+ subscription owner Hold Screen View
+ subscription owner Hold Click
+ subscription owner Benefits Click
+ subscription owner Benefits button Click
+ subscription owner Button Click
+ subscription owner Confirmation Screen View
+ subscription owner Subscription Success
+ subscription owner Account Success
+ subscription owner Subscription Click
+ subscription owner Error Screen View
+ subscription owner Error Click
+ subscription owner Unsubscribe Screen View
+ subscription owner Unsubscribe Click
+ subscription owner Unsubscribe Success
+ subscription owner Onboarding Screen View
+ subscription owner Onboarding Click
+ subscription owner Onboarding Back
+ subscription owner Change tariff Screen View
+ subscription owner Change tariff Click
+ subscription owner Change tariff Back
+ subscription owner Change tariff Success
+ subscription owner Change tariff Error
+ subscription owner Tariff Screen View
+ subscription owner Tariff Click
+ subscription owner Tariff Back
+Level owner Level control Impression
+Level owner Level control Click
+Level owner Benefits Click
+Level owner Benefits button Click
+Level member Invite screen benefits Click
+Level owner Trainer Click
+Level owner Trainer button Click
+Level owner Change plan Screen View
+Level owner Change plan Impression
+Level owner Change plan Click
+Level owner Hold Impression
+Level owner Hold Click
+Level owner Choose withdraw account Screen View
+Level owner Choose withdraw account Impression
+Level owner Choose withdraw account Click
+Level owner Menu Impression
+Level owner Menu Click
+Level owner Button Back
+Level owner Error Impression
+Level owner Error Click
+Level owner Upgrade set Screen View
+Level owner Upgrade set Click
+Level owner Success Impression
+Level owner Success Click
+Level owner Unsuccessful Impression
+Level owner Unsuccessful Click
+Level owner Choose account Screen View
+Level owner Choose account Click
+Level owner Choose account accept Click
+Level owner Downgrade set Impression
+Level owner Downgrade set Click
+Level owner Benefit Impression
+Level owner Benefit Click
+Level owner Compare Benefits Impression
+Level owner Compare Benefits Click
+Level owner Family Plan Impression
+Level owner Family Plan Click
+Level owner Alternative Set Impression
+Level owner Alternative Set Click
+Level owner Feedback Form Impression
+Level owner Feedback Form Click
+Level owner Profile badge Click
+Widget Profit widget Impression
+Widget Profit widget Click
+Profit Main Screen close
+Profit Main Screen view
+Profit Header text Click
+Profit Carousel Click
+Profit Main info Click
+Profit Chart text Click
+Profit Column Click
+Profit Chunk Click
+Cashback Statistics Chips Impression
+Cashback Statistics Chips Click
+Cashback Statistics Main info Click
+Cashback Statistics Chart text Click
+Cashback Statistics Lost profit banner Click
+Cashback Statistics Lost profit banner Impression
+Cashback Statistics Column Click
+Cashback Statistics Limits banner Impression
+Cashback Statistics Limits banner Click
+Cashback Statistics Limits info Click
+Cashback Statistics Section Click
+Cashback Statistics Banner Impression
+Cashback Statistics Section Item Scroll
+Cashback Statistics Lost profit Screen View
+Cashback Statistics Lost profit Click
+Cashback Statistics Lost profit bottomshit Impression
+Cashback Statistics Lost profit bottomshit Click
+Paycontrol registration Button Click
+Paycontrol registration Continue button Click
+Paycontrol registration Sidepanel Close
+Paycontrol registration Sidepanel Scroll
+Paycontrol deletion Delete key Delete
+Paycontrol deletion Delete key Confirm
+Paycontrol deletion Delete key Cancel
+Paycontrol deletion Delete key Success
+Paycontrol deletion Delete key Error
+Paycontrol deletion Reconfigurate Reject
+Paycontrol registration Banner View
+Paycontrol registration Banner Close
+Paycontrol registration Banner Activate
+Paycontrol registration Confirmation View
+Paycontrol registration Confirmation Click
+Paycontrol registration Details Error
+Paycontrol registration Authorization Request
+Premium service  Only Premium service Screen View
+Premium service  Only Premium status Impression
+Premium service  Only Premium status Click
+Premium service  Only Premium status Screen View
+Premium service  Only Levels Impression
+Premium service  Only Levels Click
+Premium service  Only Levels Screen View
+Premium service  Only Premium widget Impression
+Premium service  Only Premium widget Click
+Premium service  Only Lounges compensation Screen View
+Premium service  Only Lounges compensation Click
+Widget  Only widget Impression
+Widget  Only widget Click
+Premium service  Only All offers Click
+Premium service  Only All offers Impression
+Premium service  Only Personal manager Impression
+Premium service  Only Personal manager Click
+Premium service  Only Personal manager Screen View
+Premium service  Only Call to bank Click
+Premium service  Only Chat Forwarding Click
+Premium service  Only AML Click
+Premium service  Only AML Screen View
+Premium service  Only Insurance Click
+Premium service  Only Deactivation Click
+Personal manager Screen View
+Personal manager Chat Forwarding Click
+Personal manager Chat Options Click
+Personal manager Transfer money Click
+Personal manager Rate Manager Click
+Personal manager Change manager Click
+Compensation Page view Screen View
+Compensation FAQ Click
+Compensation FAQ Screen View
+Compensation Widget levels Impression
+Compensation Widget levels Click
+Compensation Additional compensation Impression
+Compensation Additional compensation Click
+Compensation Gifts Impression
+Compensation Gifts Click
+Compensation Transactions Click
+Compensation Transactions details Screen View
+Compensation Transactions account Impression
+Compensation Click
+Compensation Screen View
+Daily pay connection Landing Screen Screen View
+Daily pay connection Back landing button Click
+Daily pay connection Error screen Screen View
+Daily pay connection FAQ button Click
+Daily pay connection FAQ screen Screen View
+Daily pay connection FAQ back button Click
+Daily pay connection Documents page Click
+Daily pay connection Documents page Screen View
+Daily pay connection Documents Click
+Daily pay connection Back documents button Click
+Daily pay connection Activation button Click
+Daily pay connection Successful confirmation screen Screen View
+Daily pay connection Successful confirmation back button Click
+Daily pay connection Success button Click
+Daily pay connection Unsuccessful confirmation screen Screen View
+Daily pay connection Unsuccessful confirmation back button Click
+Daily pay connection Unsuccess button Click
+Daily pay usage Information Screen Screen View
+Daily pay usage Information back button Click
+Daily pay usage FAQ button Click
+Daily pay usage FAQ screen Screen View
+Daily pay usage FAQ back button Click
+Daily pay usage Information take money button Click
+Daily pay usage Interaction screen Screen View
+Daily pay usage Interaction back button Click
+Daily pay usage Quick response Click
+Daily pay usage Interaction take money button Click
+Daily pay usage Error screen Screen View
+Daily pay usage Successful confirmation screen Screen View
+Daily pay usage Successful confirmation back button Click
+Daily pay usage Success button Click
+Daily pay usage Unsuccessful confirmation screen Screen View
+Daily pay usage Unsuccessful confirmation back button Click
+Daily pay usage Unsuccess button Click
+Premium service Concierge Screen View
+Premium service Concierge phone Click
+Premium service Concierge site Click
+Premium service Simplewine Screen View
+Premium service Simplewine phone Click
+Premium service Simplewine email Click
+Premium service Simplewine site Click
+Premium service Simplewine pdf Click
+Premium service Simplewine callback Click
+Premium order Screen View
+Premium order Order Click
+Premium order Card carousel Scroll
+Premium order Card detail Click
+Premium order Bonus carousel Scroll
+Premium order Bonus detail Click
+Premium order Card detail Screen View
+Premium order Bonus detail Screen View
+Premium order Confirmation Screen View
+Premium order Result Screen View
+Premium order Card order Click
+Premium insurance Insurance Screen View
+Premium insurance Info Click
+Premium insurance Info Screen View
+Premium insurance Save change Click
+Premium insurance Document Click
+Premium insurance Details Click
+Premium insurance Details Screen View
+Premium insurance Insurance download Click
+Premium insurance Phone Click
+Premium insurance Email Click
+Premium insurance Extension Click
+Premium insurance Confirmation Screen View
+Premium insurance Confirmation Click
+Premium insurance Result Screen View
+Premium service Taxi Screen View
+Premium service Taxi compensation Choose
+Premium service Taxi confirmation Screen View
+Premium service Taxi confirmation Click
+Premium service Taxi result Screen View
+Premium service Taxi info Click
+Premium service Taxi levels Click
+Premium service Taxi support Click
+Premium service Lounges Screen View
+Premium service Lounges compensation Choose
+Premium service Lounges confirmation Screen View
+Premium service Lounges confirmation Click
+Premium service Lounges result Screen View
+Premium service Lounges info Click
+Premium service Lounges levels Click
+Premium service Lounges support Click
+Widget Premium service widget Click
+AML Details Screen View
+AML Details Scroll
+AML Details Click
+AML History Click
+AML History Screen View
+AML Details confirmation Screen View
+AML Details confirmation Edit
+AML Details confirmation Choose
+AML Document Choose
+AML Result screen Screen View
+Widget Ability Click
+Personal manager Details Screen View
+Personal manager Rate Screen View
+Personal manager Rate Select
+Personal manager Rate reason Select
+Personal manager Rate comment Edit
+Personal manager Rate callback Click
+Personal manager Rate Send Click
+Personal manager Result Screen Screen View
+Personal manager Change manager reason Screen View
+Personal manager Change manager reason Click
+Personal manager Change manager Different Impression
+Personal manager Change manager Different Edit
+Personal manager Change Different manager Click
+Personal manager Confirm manager reasons Confirm
+Personal manager Change manager region Select
+Personal manager Change manager result Screen View
+Personal manager Change office Click
+Personal manager Change office form Screen View
+Personal manager Change office reason Select
+Personal manager Fill office reason Impression
+Personal manager Fill office reason Edit
+Personal manager Change Different office Select
+Personal manager Confirm office reasons Select
+Personal manager Open change office Screen View
+Personal manager Open change city Screen View
+Personal manager Fill office city Select
+Personal manager Change office city Select
+Personal manager Open change metro Screen View
+Personal manager Fill change metro Select
+Personal manager Choose metro change Select
+Personal manager Change office Confirm
+Personal manager Change office result Screen View
+Personal manager Error Screen View
+Operation details Save current category button Success
+My categories Delete category button Select
+Delete category sidepanel Confirmation button Success
+My categories Edit category button Select
+My categories Edit category button Save
+Analytics page My category button Click
+Analytics page Create category button Click
+Analytics widget Create new category button Click
+Operation Details Icon Click
+Operation Details Create new category button Click
+Analytics Widget Widget Tab Click
+Analytics Widget Tooltip Show
+Analytics page Tab Click
+Analytics page Filter Click
+Operations filters Period Click
+Analytics page Gear Click
+All payments Invoice Click
+All payments Template Click
+All payments Create button Click
+All payments Carousel Scroll
+All payments Sidepanel Open
+All payments Carousel Click
+DPZ insurance Landing Screen View
+DPZ insurance Landing continue Click
+DPZ insurance Insurance terms Click
+DPZ insurance Insurance hint Open
+DPZ insurance Address continue Click
+DPZ insurance Address Choose
+DPZ insurance Address Error
+DPZ insurance Purchase Click
+DPZ insurance Document Click
+DPZ insurance Purchase Error
+Mortgage insurance Landing Screen View
+Mortgage insurance Landing button back Click
+Mortgage insurance Landing button Click
+Mortgage insurance Details Click
+Mortgage insurance OTP code Enter
+Mortgage insurance OTP resend Click
+Mortgage insurance Final screen Screen View
+DPZ insurance Purchase Success
+DPZ insurance Final screen Close
+Personal insurance account Insurance terms Screen View
+Personal insurance account Call to manager Screen View
+Personal insurance account Call to manager Click
+Personal insurance account Chat Click
+Personal insurance account Terms Click
+Personal insurance account Terms Screen View
+Personal insurance account Policy Click
+Personal insurance account Get payment Click
+Personal insurance account FAQ Click
+Personal insurance account FAQ Screen View
+Personal insurance account Open questions Click
+Personal insurance account Open questions Screen View
+Personal insurance account Download document Click
+Digital insurance Showcase Screen View
+PPF insurance Details Click
+PPF insurance FAQ button Click
+PPF insurance Confirm Button Click
+PPF insurance Next Click
+PPF insurance Open FAQ question Error
+PPF insurance Submit button Click
+PPF insurance Open Document Viewer Click
+PPF insurance Account selection Click
+PPF insurance Validation error Error
+PPF insurance Processing Sign
+Mortgage insurance Account picker Click
+Mortgage insurance OTP code Success
+Wheels insurance Landing continue Click
+Pay ecom Screen View
+Pay ecom Card select Click
+Pay ecom Card Click
+Pay ecom Buy Click
+Pay ecom Result Screen View
+Pay ecom Card save Change
+Deeplink Webview navigation Error
+Pay ecom Cashback details Click
+Pay ecom Cashback details Impression
+Pay ecom Topup Click
+Pay ecom Topup Choose
+Pay ecom Topup Back
+Pay ecom Topup Finish
+Pay ecom Topup Resolve
+Pay ecom BNPL Impression
+Pay ecom BNPL Click
+Pay ecom BNPL term Click
+Pay ecom BNPL about Click
+Pay ecom BNPL documents head Click
+Pay ecom BNPL documents item Click
+Pay ecom BNPL button Click
+Pay ecom BNPL waiter Screen View
+Pay ecom BNPL waiter Resolve
+Pay ecom Other card Click
+Pay ecom Other card Screen View
+Pay ecom Other card Start
+Pay ecom Invoice Click
+Pay routing page Resolve
+Pay routing page Reopen app Click
+Pay routing page Reopen app Resolve
+Pay routing page Reopen  online Click
+Pay routing page Reopen back to merchant Click
+Pay routing page Error
+Pay routing page Pay iframe Screen View
+Pay routing page Pay iframe Click
+Pay routing page Pay QR Screen View
+Pay routing page Pay QR Resolve
+Pay routing page Pay QR Click
+Pay routing page Pay QR Back
+Pay routing page Notification pay Screen View
+Pay routing page Phone enter Click
+Pay routing page Send button Click
+Pay routing page Result screen Screen View
+Pay routing page Resend button Click
+Pay routing page Change phone Click
+Pay routing page Notification pay Resolve
+Pay ecom Pay button Screen View
+Pay ecom Pay button Click
+Pay ecom Order Create
+Pay ecom Order Open
+Pay ecom Order Confirm
+Pay ecom Order Response
+Daily payments widget Open Click
+Daily payments widget Open withdraw Click
+X5 auth Page Open
+X5 auth Page Error
+X5 auth Pin Send
+X5 auth Pin Success
+X5 auth Pin Error
+X5 auth Pin Create
+X5 auth Authorization Confirm
+X5 auth SMS Open
+X5 auth SMS Send
+X5 auth SMS Success
+X5 auth SMS Error
+X5 auth Biometric Send
+X5 auth Biometric Success
+X5 auth Biometric Error
+X5 main Main Open
+X5 main Product View
+X5 main Button Click
+X5 main Tapbar Click
+X5 main Banner View
+X5 main Banner Click
+X5 main Ghost View
+X5 main Ghost Click
+X5 profile Button Click
+X5 profile Settings Click
+X5 loyalty Main Click
+X5 loyalty Main Open
+X5 loyalty Offer View
+X5 loyalty Offer Click
+X5 loyalty Spend View
+X5 loyalty Spend Click
+X5 loyalty Action View
+X5 loyalty Action Click
+X5 debit Main Click
+X5 debit Action Click
+X5 debit Action check
+X5 credit Main Click
+X5 credit Action Click
+X5 credit Action check
+X5 account Main Click
+X5 showcase Banner View
+X5 showcase Banner Click
+X5 showcase Ghost View
+X5 showcase Ghost Click
+X5 history Button Click
+X5 payments Search Click
+X5 payments Transfer button Click
+X5 payments Category button Click
+X5 payments Top-up button Click
+X5 payments Internet button Click
+X5 payments Communal button Click
+Orange Main Open
+Orange Main Click
+Orange Spend Open
+Orange Spend Click
+Orange Offers Compilation Open
+Orange Offers Compilation Click
+Orange Cashback details Open
+Orange Cashback details Click
+Orange Offer Open
+Orange Offer Click
+Orange FAQ Open
+Orange Compensation Open
+Orange Compensation Click
+Orange Confirmation Open
+Orange Confirmation Click
+Orange Compensation result Open
+Orange Package Open
+Orange Package Click
+Orange More Click
+Orange More Open
+Check notifications Cards Screen View
+Check notifications Cards settings Open
+Check notifications Subscribe button Click
+Check notifications Results screen Impression
+Check notifications Unsubscribe button Click
+Check notifications Unsubscribe popup button Click
+Check notifications Save button Click
+Check notifications Back button Click
+Check notifications Close button Click
+Check notifications Error screen Impression
+Check notifications Information Button Click
+ check notifications Cards Screen View
+ check notifications Card Click
+ check notifications Notification settings Screen View
+ check notifications Subscribe button Click
+ check notifications Results screen Screen View
+ check notifications Unsubscribe button Click
+ check notifications Save button Click
+ check notifications Error screen Impression
+ check notifications Information Button Click
+ check notifications Tariff selection Screen View
+ check notifications Tariff selection Click
+ check notifications Notification VK Screen View
+ check notifications Cards Click
+Check notifications Disable survey Screen View
+Check notifications Disable confirm Screen View
+OFD receipts View shopping list Click
+OFD receipts Add receipt Click
+Receipt QR Screen Screen View
+ ID Login Start
+ ID Phone form Screen View
+ ID Phone form Error
+ ID Login form Screen View
+ ID Phone Send
+ ID Login and password Send
+ ID Login form Error
+ ID Use application Click
+ ID Open application Error
+ ID Consent ui Navigate
+ ID External IDP Navigate
+ ID External IDP Error
+ ID Login Success
+ ID Login by QR Activate
+ ID Login by QR Error
+ ID QR Error
+ ID QR generate Error
+ ID QR renew Click
+ ID OTP form Screen View
+ ID No OTP button Click
+ ID OTP back button Click
+ ID OTP Send
+ ID OTP renew Click
+ ID OTP form Error
+ ID Password form Screen View
+ ID Password back button Click
+ ID Password Send
+ ID Password form Error
+ ID Notification Screen View
+ ID Temporary Password Notification Screen View
+ ID Error Screen View
+ ID Back to partner popup Impression
+ ID Back to partner button Click
+ ID Consent Start
+ ID Consent short Screen View
+ ID Consent full Screen View
+ ID Consent sign Click
+ ID Consent OTP form Screen View
+ ID Consent no OTP button Click
+ ID Consent OTP back button Click
+ ID Consent OTP Send
+ ID Consent OTP renew Click
+ ID Consent OTP form Error
+ ID Consent Success
+ ID Consent Error
+ ID QES Click
+ ID Passkey Click
+ ID Passkey form Screen View
+ ID Passkey form Error
+ ID QES form Screen View
+ ID QES form Click
+ ID QES form Error
+ ID Password UL form Screen View
+ ID Password UL form Error
+ ID Refuse to sign Click
+ ID Refusal to sign Confirm
+ ID RSA Click
+ ID RSA form Screen View
+ ID RSA form Click
+ ID RSA form Error
+ ID Digital ministry certificate Request
+ ID Select organization Screen View
+ ID Select organization Submit
+ ID Forget login or password Click
+ ID Data recovery form Screen View
+ ID Password recovery Screen View
+ ID Password recovery Submit
+ ID Password change Screen View
+ ID Password change Submit
+ ID Password change Success
+ ID Password change Error
+ ID Login remind Screen View
+ ID Login remind Submit
+ ID Login remind Error
+ ID Login remind Success
+ ID Login remind Fail
+ ID Nonclients Start Screen Screen view
+ ID Nonclients Client Click
+ ID Nonclients Non client Click
+ ID Nonclients ESIA Info Click
+ ID Nonclients SOPD Info Click
+ ID Nonclients ESIA Data Wait
+ ID Phone and password Screen View
+ ID Phone and password Send
+ ID Phone and password Error
+ ID Forget password Click
+Reports Banner View
+Reports Open Deeplink Button Click
+My documents Webview my documents list Click
+My documents My documents list View
+My documents Webview open document Click
+My documents Open document Click
+My documents Webview document data Click
+My documents Document data View
+My documents Webview document data back button View
+My documents Document data back button View
+My documents Webview copy document data Click
+My documents Copy document data Click
+My documents Webview update passport Click
+My documents Update passport Click
+My documents Webview download documents banner View
+My documents Download documents banner View
+My documents Webview download documents Click
+My documents Download documents Click
+My documents Webview update data View
+My documents Update data View
+My documents Update passport with chat Click
+My documents Passport relevant View
+My documents Update passport anyway Click
+My documents Select purpose View
+My documents Select purpose click Click
+My documents Data input View
+My documents Confirm data Click
+My documents Ready to check View
+My documents Go to chat Click
+Digital profile Landing Screen View
+Digital profile Landing View
+Digital profile Landing button Click
+Digital profile Landing submit Click
+Geps Status screen Screen View
+Geps Button Click
+SDUIScreen Error Error
+Digital profile Authorization Impression
+Geps Disable Impression
+Geps Activation Impression
+Prosalary Offers Screen View
+Prosalary Start registration button Click
+Prosalary Form Continue
+Prosalary Form error Screen View
+Prosalary Send button Click
+Prosalary Change button Click
+Prosalary Download Click
+Prosalary Signing Click
+Prosalary NeedWork Button Click
+Prosalary Retry button Rejected Click
+Prosalary Retry button TR NotAgreed Click
+Prosalary Retry button BackOffice Click
+Prosalary Service Error
+Prosalary Confirm code Enter
+Prosalary File access Send
+Prosalary Authorized person Edit
+Smart limits Landing Screen View
+Smart limits Landing more details  Click
+Smart limits Landing approve Click
+Smart limits FAQ Screen View
+Smart limits FAQ ok Click
+Smart limits Passport details Screen View
+Smart limits Passport details approve Click
+Polling screen Polling attepmed started Start
+Polling screen Polling attepmed succsess Finish
+Polling screen Polling attepmed error Finish
+Smart limits Smart limit approved Screen View
+Smart limits Sign documents Click
+Smart limits View documents Click
+Smart limits Documents Screen View
+Smart limits Read document Click
+Smart limits Pass code Screen View
+Smart limits No debit account Screen View
+Smart limits Passport error Screen View
+Smart limits Smart limit reject Screen View
+Smart limits Not trusted device Screen View
+MVNO registration All tariffs Screen View
+MVNO registration Tariffs details Click
+MVNO registration Discount details Click
+MVNO registration Discounts list Screen View
+MVNO registration Discount Screen View
+MVNO registration Benefits list Screen View
+MVNO registration Benefit details Click
+MVNO registration Benefit Screen View
+MVNO registration Subscribe Click
+MVNO registration Sim and subscribe Screen View
+MVNO registration Select sim and subscribe Click
+MVNO registration Phone number type Screen View
+MVNO registration MNP_DNT Screen View
+MVNO registration Select phone number type Click
+MVNO registration New number Screen View
+MVNO registration Regions Screen View
+MVNO registration Region select Click
+MVNO registration New number select Click
+MVNO registration MNP Screen View
+MVNO registration Another MNP number Screen View
+MVNO registration MNP number confirm Click
+MVNO registration MNP info Screen View
+MVNO registration MNP number select Click
+MVNO registration Sim card type Screen View
+MVNO registration Sim card details Click
+MVNO registration Sim card info Screen View
+MVNO registration Sim card type select Click
+MVNO registration Address Screen View
+MVNO registration Address confirm Click
+MVNO registration Delivery details Screen View
+MVNO registration Delivery details confirm Click
+MVNO registration Check out Screen View
+MVNO registration Documents Screen View
+MVNO registration MVNO registration confirm Click
+MVNO registration Pass code Screen View
+MVNO registration MNP date Screen View
+MVNO registration MNP date confirm Click
+MVNO registration Result screen Screen View
+MVNO registration No delivery Screen View
+MVNO registration Polling Screen View
+MVNO registration Self-prohibition Screen View
+MVNO registration No ESIA answer Screen View
+MVNO registration Esim in office Screen View
+Personal account MVNO Account loaded Screen View
+Personal account MVNO Payment Details Click
+Personal account MVNO Balance Click
+Personal account MVNO Tariff remains gb Click
+Personal account MVNO Tariff remains min Click
+Personal account MVNO Tariff remains sms Click
+Personal account MVNO About Click
+Personal account MVNO Service widget Click
+Personal account MVNO Catalogue Click
+Personal account MVNO Tariff select button  i Click
+Personal account MVNO Tariff conditions Click
+Personal account MVNO Tariff select button Click
+Personal account MVNO Tariff set date Screen View
+Personal account MVNO Tariff change date Change
+Personal account MVNO Tariff change confirmation screen Screen View
+Personal account MVNO Tariff change confirmation button Click
+Personal account MVNO My services screen opened Screen View
+Personal account MVNO My services card Click
+Personal account MVNO My services add button Click
+Personal account MVNO Catalog service page opened Screen View
+Personal account MVNO Catalog service button Click
+Personal account MVNO Service disable pop up Click
+Personal account MVNO Service confirmation page opened Screen View
+Personal account MVNO Service confirmation button Click
+Personal account MVNO Catalog service page Click
+Debt discount Landing Screen View
+Debt discount Details Click
+Debt discount Activation Click
+Debt discount Payment Click
+Debt discount Payment schedule Click
+Debt refinancing Landing Screen View
+Debt refinancing Details Click
+Debt refinancing Activation Click
+Debt refinancing Step 1 Screen View
+Debt refinancing Step 1 Click
+Debt refinancing Cancel Screen View
+Debt refinancing Cancel Click
+Debt refinancing Step 2 Screen View
+Debt refinancing Step 2 Click
+Debt refinancing Step 3 Screen View
+Debt refinancing Step 3 Click
+Debt refinancing Error screen Screen View
+Debt refinancing Error screen Click
+Debt refinancing Final screen Screen View
+Debt refinancing Final screen Click
+Debt section Landing Screen View
+Debt section Call to manager Impression
+Debt section Call to manager Click
+Personal manager Call to manager Screen View
+Personal manager Chat Click
+Debt section Call to bank Impression
+Debt section Call to bank Click
+Debt section Chat Click
+Debt section Banner Click
+Debt section Document Click
+Debt section Useful banner Click
+Debt section Offer Click
+Debt section Useful banner Screen View
+Debt section Details Click
+Debt section Onboarding Screen View
+Debt section Onboarding Click
+Loan refinancing Landing Screen view
+Loan refinancing Primary credit anket Screen view
+Loan refinancing Landing back button Click
+Loan refinancing Landing continue Click
+Loan refinancing BKI Screen view
+Loan refinancing BKI back button Click
+Loan refinancing BKI button Click
+Loan refinancing Deny relend Screen view
+Loan refinancing Deny relend back button Screen view
+Loan refinancing Relend processing after BKI back button Click
+Loan refinancing Relend processing after BKI button Click
+Loan refinancing Conditions Screen view
+Loan refinancing Loan credits on Conditions screen Click
+Loan refinancing Term Click
+Loan refinancing Credit amount Enter
+Loan refinancing Relend processing after change Screen view
+Loan refinancing Conditions back button Click
+Loan refinancing Loan terms Click
+Loan refinancing Insurance terms Click
+Loan refinancing Insurance terms Screen View
+Loan refinancing Fee discount Click
+Loan refinancing Fee discount Screen view
+Loan refinancing Third party checkbox Click
+Loan refinancing Advert checkbox Click
+Loan refinancing Validation error on Conditions screen Error
+Loan refinancing Continue button Click
+Loan refinancing Docs formation Screen view
+Loan refinancing Docs formation back button Click
+Loan refinancing Docs formation button Click
+Loan refinancing Deny relend after Docs formation Screen view
+Loan refinancing Deny relend back button Click
+Loan refinancing Selfrestriction Screen view
+Loan refinancing Selfrestriction cancel button Click
+Loan refinancing Selfrestriction homepage button Click
+Loan refinancing Selfrestriction back button Click
+Loan refinancing Not found inn Screen view
+Loan refinancing Not found inn back button Click
+Loan refinancing Not found inn button Click
+Loan refinancing Check relend conditions Screen view
+Loan refinancing Validation error on Check relend screen Error
+Loan refinancing Document Click
+Loan refinancing Loan credits on Check relend screen Click
+Loan refinancing Check relend conditions back button Click
+Loan refinancing Confirm conditions Click
+Loan refinancing Prefinal screen Screen view
+Loan refinancing Prefinal screen back button Click
+Loan refinancing Prefinal screen button Click
+Loan refinancing 9FL explain Click
+Loan refinancing 9FL explain Screen view
+Loan refinancing Technical window Screen view
+Loan refinancing Technical window back button Click
+Loan refinancing Technical window button Click
+Loan refinancing SMS Screen view
+Loan refinancing SMS Click
+Loan refinancing Final check Screen view
+Loan refinancing Final check back button Click
+Loan refinancing Final check button Click
+Loan refinancing Check again screen Screen view
+Loan refinancing Check again back button Click
+Loan refinancing Check again button Click
+Loan refinancing Deny relend after Final check screen Screen view
+Loan refinancing Deny relend after Final check screen back button Click
+Loan refinancing Deny relend after Final check screen button Click
+Loan refinancing Relend success Screen view
+Loan refinancing Relend success button Click
+Loan refinancing Next actions Screen view
+Loan refinancing Next actions button Click
+Loan refinancing Technical work Screen View
+Loan refinancing Technical work button Click
+Loan refinancing Technical work back button Click
+Loan refinancing No credits primary button Click
+Loan refinancing No credits secondary button Click
+Loan refinancing No credits back button Click
+Loan refinancing No credits Screen View
+Cashback Forecast 1 Click
+Cashback Forecast 2 Click
+Cashback Open FAQ question Click
+Cashback Open FAQ Click
+Cashback Bonus account Screen View
+Cashback More profit carousel Screen View
+Cashback Carousel services Screen View
+Widget Carousel cashback privileges Click
+Cashback Scroll faster Click
+Cashback Drum details Click
+Cashback Gear Impression
+Cashback Drum Screen View
+Cashback Categories list Screen View
+Cashback Cards list Screen View
+Cashback Category details button Impression
+Cashback Categories details Click
+Cashback Category accept Click
+Cashback Category FAQ Click
+Cashback Category details button Click
+Cashback Banner Impression
+Cashback Banner Open
+Cashback Banner Close
+Cashback Go to landing Click
+Cashback Change of loyalty Click
+Cashback Motivation banner click Click
+PiggyBank Entry point Impression
+PiggyBank Entry point Click
+PiggyBank Regular screen Screen View
+PiggyBank Regular screen button Click
+PiggyBank Creation error Error
+PiggyBank screen Screen View
+PiggyBank Info screen Screen View
+PiggyBank Bonus screen Screen View
+PiggyBank Deposit Screen Screen View
+PiggyBank Transfer Container Click
+PiggyBank Withdrawal Screen Screen View
+PiggyBank Deposit Button Click
+PiggyBank Deposit Success Screen Screen View
+PiggyBank Withdrawal Button Click
+PiggyBank Accept button Screen View
+PiggyBank Action Click
+Style selection Screen View
+Style selection Character Select
+Style selection Accept button Click
+Style selection Load data Error
+Style selection Save Error
+Style selection Back button Click
+PiggyBank Create View
+PiggyBank Create Click
+PiggyBank Landing Screen Screen View
+PiggyBank Open PiggyBank Landing Button Click
+PiggyBank In progress button View
+PiggyBank Closed button View
+PiggyBank PiggyBank button View
+PiggyBank PiggyBank button Click
+Showcase screen view
+Showcase Offer impression
+Showcase Offer click
+Rubbles Banner impression
+Rubbles Banner click
+My products screen view
+My products Ghost impression
+My products Ghost click
+Notification center Notifications screen view
+Notification center Notification impression
+Welcome stories Banner impression
+Welcome stories Banner click
+CC2 BKI screen view
+CC2 BKI income enter
+CC2 BKI click
+CC2 BKI standby screen view
+CC2 BKI success screen view
+CC2 FOT screen view
+CC2 FOT company enter
+CC2 FOT phone enter
+CC2 FOT income send
+CC2 FOT send
+CC2 Step 1 screen view
+CC2 Benefit click
+CC2 Benefit screen view
+CC2 Limit change
+CC2 PSP change
+CC2 Step 1 confirm
+CC2 Step 2 screen view
+CC2 Delivery method click
+CC2 City click
+CC2 City screen view
+CC2 City choose
+CC2 Date choose
+CC2 Timeframe choose
+CC2 Address enter
+CC2 Delivery unavailable reject
+CC2 Telephone enter
+CC2 Comment enter
+CC2 Metro click
+CC2 Metro screen view
+CC2 Metro choose
+CC2 Office click
+CC2 Office screen view
+CC2 Office choose
+CC2 Step 2 confirm
+CC2 Signing confirm
+CC2 Step 3 screen view
+CC2 Interest click
+CC2 Interest screen view
+CC2 Interest change
+CC2 Insurance click
+CC2 Insurance screen view
+CC2 Insurance activate
+CC2 Insurance reject
+CC2 Email enter
+CC2 Consent BKI confirm
+CC2 Consent data processing confirm
+CC2 Step 3 confirm
+CC2 Document list click
+CC2 Document click
+CC2 Document impression
+CC2 Card release success
+CC2 Final screen screen view
+CC2 Wallet click
+CC2 Error screen view
+CC2 Not ready screen view
+хз099 deeplink Click
+Deeplink Search Marketing Click
+New deposit Screen View
+New deposit Details Click
+New deposit Special conditions Click
+New deposit Currency Select
+New deposit Amount input Change
+New deposit Amount validate Error
+New deposit Period Select
+New deposit Switcher Click
+New deposit Minimum balance info Click
+New deposit Choose type Select
+New deposit Max rate Click
+New deposit To processing Click
+Deposit confirm Screen View
+Deposit confirm New money info Click
+Deposit confirm Deposit pds info Click
+Deposit confirm Switcher Click
+Deposit confirm Account Click
+Deposit confirm Account validate Error
+Deposit confirm Account validate error Click
+Deposit confirm Statement Click
+Deposit confirm Open deposit Click
+Deposit confirm Open deposit Error
+Deposit confirm Open deposit error Click
+Deposit confirm Validate operation Screen View
+Open account Account Screen View
+Open account Currency Select
+Open account Account type Click
+Open account Details Click
+Open account Click
+Open account Success Screen View
+Main Metrics Page Page View
+Close Close Account Info SidePanel View
+Close Close Button Click
+Close Close Account Success SidePanel View
+Close Code Confirm Submit
+Widget Cards widget Click
+main_page bottom_of_the_page view
+side_panel successful_deposit_closure view
+Self install Start screen Screen view
+Self install Next Click
+Self install Loader page Error
+Self install Load data Error
+Self install Field Copy
+Self install Timeout Screen view
+Operations History Show Operations List Show
+Operations History Refresh After Error Refresh
+Operations History Click Show More Operations Click
+Operations History No Operations Nothing Found
+Operations History Filters Applied Nothing Found
+Operations History Error Loading Operations Error
+Operation details Click Get PDF Click
+Operation details Click Repeat Operation Click
+Operation details Click Create Template Click
+change category icon wrapper Click
+Operation details Remove expense/Exclude pfm Finish/Click
+shopping_list show_screen_success View
+Operation Details Claim Button Click
+Operation Details Edit expense Edit
+Operation Details Remove expense Click
+Operation Details Remove expense Finish
+Operation Details Remove expense Cancel
+OperationsHistory Filters icon Click
+OperationsHistory Date Click
+OperationsHistory Operation Sign Click
+OperationsHistory Operation Type Click
+OperationsHistory Show Click
+OperationsHistory Discard Click
+PFM Add expense Click
+Add expense Screen View
+Add expense Confirm expense Click
+Add expense Confirm expense Finish
+Add expense more Confirm expense Click
+KSP early repayment Early repayment Click
+KSP early repayment Step one Screen View
+KSP early repayment Step one Click
+KSP early repayment Step one Back
+KSP early repayment Step two aa Screen View
+KSP early repayment Step two aa Click
+KSP early repayment Step two aa Back
+KSP early repayment Step two aa Confirm
+KSP early repayment Step two ab Screen View
+KSP early repayment Step two ab Click
+KSP early repayment Step two ab Back
+KSP early repayment Step two ab Confirm
+KSP early repayment Step two ac Screen View
+KSP early repayment Step two ac Click
+KSP early repayment Step two ac Back
+KSP early repayment Step two ac Confirm
+KSP early repayment Step two ad Screen View
+KSP early repayment Step two ad Click
+KSP early repayment Step two ad Back
+KSP early repayment Step two ad Confirm
+KSP early repayment Step two ba Screen View
+KSP early repayment Step two ba Click
+KSP early repayment Step two ba Back
+KSP early repayment Step two ba Confirm
+KSP early repayment Step two bb Screen View
+KSP early repayment Step two bb Click
+KSP early repayment Step two bb Back
+KSP early repayment Step two bb Confirm
+KSP early repayment Step two bc Screen View
+KSP early repayment Step two bc Click
+KSP early repayment Step two bc Back
+KSP early repayment Step two bc Confirm
+KSP early repayment Step two bd Screen View
+KSP early repayment Step two bd Click
+KSP early repayment Step two bd Back
+KSP early repayment Step two bd Confirm
+KSP early repayment Step zero aa Screen View
+KSP early repayment Step zero aa Click
+KSP early repayment Step zero aa Screen Close
+KSP early repayment Step zero ab Screen View
+KSP early repayment Step zero ab Screen Close
+KSP early repayment Step zero ba Screen View
+KSP early repayment Step zero ba Click
+KSP early repayment Step zero ba Screen Close
+KSP early repayment Step zero bb Screen View
+KSP early repayment Step zero bb Screen Close
+Opening an escrow account List of applications View
+Opening an escrow account Tabs with applications Click
+Opening an escrow account Sign button Click
+Opening an escrow account Registration of ddu data View
+Opening an escrow account DDU number Change
+Opening an escrow account DDU date Change
+Opening an escrow account Registration of ddu data Expand
+Opening an escrow account Registration of ddu data Click
+Opening an escrow account Account for return View
+Opening an escrow account Tab bank Click
+Opening an escrow account Account Choose
+Opening an escrow account BIC input Apply
+Opening an escrow account Account entry Apply
+Opening an escrow account Account for return Click
+Opening an escrow account Sign document View
+Opening an escrow account Sign document Click
+Opening an escrow account Signing code View
+Opening an escrow account Signing code Repeat
+Opening an escrow account Signing code Close
+Opening an escrow account Final screen View
+Opening an escrow account Open account button Click
+Opening an escrow account Final screen error View
+Opening an escrow account Applications list Error
+Opening an escrow account Application Error
+Opening an escrow account Accounting mode Error
+Opening an escrow account Compliance check Error
+Opening an escrow account Account selection Error
+Opening an escrow account BIC validation Error
+Opening an escrow account BIC and account validation Error
+Opening an escrow account Iinitiation of signing Error
+Opening an escrow account Code Confirm Error
+Opening an escrow account SignProcess Error
+Opening an escrow account Button back Click
+Opening an escrow account Screen error View
+Change of DDU data Registration of ddu data View
+Change of DDU data DDU number Change
+Change of DDU data DDU date Change
+Change of DDU data Registration of ddu data Expand
+Change of DDU data Registration of ddu data Click
+Change of DDU data Account for return View
+Change of DDU data Tab bank Click
+Change of DDU data Account Choose
+Change of DDU data BIC input Apply
+Change of DDU data Account entry Apply
+Change of DDU data Account for return Click
+Change of DDU data Sign document View
+Change of DDU data Sign document Click
+Change of DDU data Signing code View
+Change of DDU data Signing code Repeat
+Change of DDU data Signing code Close
+Change of DDU data Final screen View
+Change of DDU data Open account button Click
+Change of DDU data Final screen error View
+Change of DDU data Application Error
+Change of DDU data Accounting mode Error
+Change of DDU data Compliance check Error
+Change of DDU data Account selection Error
+Change of DDU data BIC validation Error
+Change of DDU data BIC and account validation Error
+Change of DDU data Iinitiation of signing Error
+Change of DDU data Code Confirm Error
+Change of DDU data SignProcess Error
+Change of DDU data Button back Click
+Change of DDU data Screen error View
+Downloading signed statements Screen View
+Downloading signed statements Select account Apply
+Downloading signed statements Period Apply
+Downloading signed statements Filter remove Click
+Downloading signed statements List of signed documents Error
+Downloading signed statements Download document Click
+Downloading signed statements Download document Error
+Downloading signed statements Screen Back
+Dom Main page Screen View
+Dom Main page button Click
+Dom Main page editor Click
+Dom My addresses Screen View
+Dom My addresses button Click
+Dom My addresses delete Click
+Dom Address button Click
+Dom Adding address Screen View
+Dom Error Impression
+Dom Find providers Screen View
+Dom Find providers new address Click
+Dom Providers choose Screen View
+Dom Providers choose button Click
+Dom Address delete Screen View
+Dom Address delete Click
+Dom Address delete final Impression
+Dom Start Click
+Vehicle Landing Screen View
+Vehicle Landing Click
+Vehicle Vehicle id Screen View
+Vehicle Vehicle id Click
+Vehicle Creation vehicle Screen View
+Vehicle Error screen Screen View
+Vehicle Creation vehicle Click
+Vehicle Main tab Click
+Vehicle Vehicle id open Click
+Vehicle Creation driving license Click
+Vehicle GAI widget Click
+Vehicle Partner widget Click
+Vehicle Creation driving license Screen View
+Vehicle Driving license open Click
+Osago Landing Screen View
+Osago Landing continue Click
+Osago FAQ Click
+Osago Skip step Click
+Osago Back step Click
+Osago Owner Click
+Osago Insurer Click
+Osago Email Enter
+Osago Chips Click
+Osago Year Click
+Osago Change Click
+Osago Drivers add Click
+Osago Change form Click
+Osago Start Enter
+Osago Policy Click
+Osago Transfer Click
+Osago Account selection Select
+Osago Confirm code Enter
+Osago Success Success
+Payslips Deeplink button Click
+Payslips Error Screen View
+Payslips Error Click
+Payslips Empty state button Click
+Payslips Open detail Click
+Payslips Get pdf Click
+Payslips Open FAQ Click
+Payslips Open FAQ question Click
+Payslips Screen view Screen View
+Payslips Back button Click
+Analytics page Coach Widget Screen View
+Analytics page Coach Widget Click
+Analytics page Cost plan View
+Analytics page Skip step Click
+Analytics page Edit category button Click
+Analytics page Back button Click
+Analytics page Add category button Click
+Analytics page Add Click
+Analytics page Success screen Screen View
+Analytics page Failed Screen Screen View
+Analytics page Cost plan Screen View
+Self employed New check Screen View
+Self employed Generating income Click
+Self employed Check polling Screen View
+Self employed Check success Screen View
+Self employed Check fail Screen View
+Self employed Check pending Screen View
+Self employed Sharing Click
+Self employed Open income Click
+Self employed View income Screen View
+Self employed Final accept Click
+Self employed View sharing Screen View
+Self employed Cancellate success Screen View
+Self employed Cancellate fail Screen View
+Self employed Certificate Screen View
+Self employed Reference Click
+Self employed Get certificate Click
+Self employed Back button Click
+Self employed View sertificate Screen View
+Self employed Service unavailable Screen View
+Self employed Not enough rights Screen View
+Self employed View sertificate Error
+Customer products Home Page Screen View
+Customer products Coach Widget Click
+Customer products Service widget Screen View
+Customer products Income and tax Load
+Self employed Tax Screen View
+Self employed All checks Screen View
+Self employed  pay tax Screen View
+Self employed Pay tax Click
+Self employed View details Screen View
+Self employed  pay tax Success
+Self employed Operation History Show Button
+Widget screen Screen end Impression
+Self employed Service widget Click
+Widget Customer products widget Error
+Widget Customer products widget Load
+Self employed Income widget repeat loading Click
+Self employed Change Permissions Landing Screen View
+Self employed Change Permissions Send Request Click
+Self employed Change Permissions Confirmation Screen View
+Self employed Change Permissions Check Status Click
+Self employed Change Permissions Final Success Screen View
+Self employed Change Permissions Screen View
+Self employed Permissions List Screen View
+Self employed Landing result Screen View
+Self employed Registration Click
+Self employed Landing Screen View
+Self employed Registration button Click
+Self employed Category change region Screen View
+Self employed Registration final Screen View
+Self employed Landing join Screen View
+Self employed Continue button Click
+Self employed Connection Screen View
+Self employed Connect button Click
+Self employed Instructions Screen View
+Self employed Join final Screen View
+Self employed Marketplace questionnaire landing Screen View
+Self employed Marketplace questionnaire landing click Click
+Self employed Marketplace questionnaire experience Screen View
+Self employed Marketplace questionnaire experience next Click
+Self employed Marketplace questionnaire contacts Screen View
+Self employed Marketplace questionnaire contacts next Click
+Self employed Marketplace questionnaire service Screen View
+Self employed Marketplace questionnaire send Click
+Self employed Marketplace questionnaire final success Screen View
+Self employed Marketplace questionnaire final fail Screen View
+Self employed Marketplace widget show Show
+Self employed Marketplace widget click Click
+Widget Main Success
+Widget Unavailability info widget Click
+Card activation multistep PIN entry screen Screen View
+Card activation multistep PIN entry screen Error
+Card activation multistep Final screen Screen View
+Card update pin multistep PIN entry screen Screen View
+Card update pin multistep PIN entry screen Error
+Card update pin multistep Final screen Screen View
+Card activation and update pin multistep Redirect to page Screen View
+Card order self Showcase new Screen View
+Card order self Bonus number Screen View
+Card order self Selection design Screen View
+Card order self Confirmation digital Screen View
+Card order self Confirmation digital submit Click
+Card order self Confirmation plastic Screen View
+Card order self Selection city Screen View
+Card order self Selection delivery type Click
+Card order self Confirmation delivery submit Click
+Card order self Result screen Screen View
+Individual debit Coordinator Open
+Individual debit Landing Open
+Individual debit Button Click
+Individual debit Manual input Confirm
+Individual debit Manual input Fail
+Individual debit Confirmation limit exceed Error
+Individual debit Need dul screen Open
+Individual debit Check button Click
+Individual debit Cross button Click
+Individual debit Main screen Open
+Individual debit Back button Click
+Individual debit Toggle Activate
+Individual debit Toggle Cancel
+Individual debit Address Open
+Individual debit Address Choose
+Individual debit Delivery office Open
+Individual debit Manual input Click
+Individual debit Accept button Click
+Individual debit Final screen Open
+Individual debit To main screen button Click
+Individual debit Trainer Click
+Ruble payments Debit card order questionnaire View
+Ruble payments Debit card order questionnaire Click
+Payments list List View
+Payments list Sign button Click
+Payments list Change button Click
+Payments list Repeat button Click
+Payments list Delete button Click
+Payments details Details View
+Payments details Sign button Click
+Payments details Change button Click
+Payments details Repeat button Click
+Payments details Delete button Click
+Payments details Template button Click
+Games Main screen Open Screen
+Games FAQ Open Screen
+Games FAQ Click
+Games Account Impression
+Games Account Click
+Games Offer Impression
+Games Details Open Screen
+Games Continue button Click
+Games Info widget Impression
+Games Spend Click
+Games Partner Share
+Games Share Share
+ui_action Get tariff Submit
+ui_action Get tariff limits Submit
+ui_action View Additional services Submit
+ui_action Get available tariff Submit
+ui_action Change tariff sign document Success
+ui_action Cancel change tariff sign document Success
+Free charge conditions Activate client option with auto prolongation and free charge conditions Activate
+Free charge conditions Activate client option without auto prolongation and free charge conditions Activate
+Free charge conditions Cancel client option with free charge conditions Cancel
+Tariff view Account selection View
+Tariff view Tariff view button Show
+Tariff view Get tariff Submit
+Tariff view Get tariff limits Submit
+Tariff view Tariff limits Click
+Tariff view Promotions Show
+Tariff view Promotions View
+Tariff view Promotions Click
+Tariff view Tariff download Get
+Tariff view Tariff info Click
+Change tariff Get available tariff Submit
+Change tariff Tariff download Get
+Change tariff Chosen tariff View
+Change tariff Commission amount Click
+Change tariff Refund amount Click
+Change tariff Create change tariff document Create
+Change tariff Change tariff sign document Success
+Cancel change tariff Create cancel change tariff document Create
+Cancel change tariff Cancel change tariff sign document Success
+Option services Subscription button Show
+Option services View option services View
+Option services Subscriptions info Click
+Option services Subscription details View
+Option services Tariff download Get
+Option services Create option status change Create
+Option services Add option service Success
+Option services Deactivate prolongation Success
+Industry solutions Main info Screen View
+Industry solutions recommendations Widget Tap
+Industry solutions recommendations Graph Tap
+Industry solutions recommendations Widget Scroll
+Industry solutions recommendations Widgets Scroll
+ Profitable Loader Load
+ Profitable Dashboard Open
+ Profitable Dashboard View
+ Profitable Dashboard Refresh
+ Profitable Dashboard Confirm
+ Profitable Redeem Cashback View
+ Profitable Redeem Cashback Confirm
+ Profitable Offer Category View
+ Profitable Offer List View
+ Profitable Offer View
+ Profitable Offer Click
+ Profitable Offer Confirm
+ Profitable Offer Activate
+ Profitable Offer Send
+ Profitable Offer Navigate
+ Profitable Cashback View
+ Profitable Cashback Confirm
+ Profitable Products Navigate
+Benefits Benefits widget Impression
+Benefits Benefits widget Click
+Benefits Error View
+Benefits Error Click
+Benefits Back Click
+Benefits Screen Open
+Benefits Screen View
+Benefits Screen Scroll
+Benefits Screen Refresh
+Benefits Widget Impression
+Benefits Section Click
+Benefits Tab Click
+Card issue Card showcase Open
+Card issue Card showcase Click
+Card issue Card showcase Back
+Card issue Card ownerships Open
+Card issue Card ownerships Click
+Card issue Card ownerships Back
+Card issue Card projects Open
+Card issue Card projects Click
+Card issue Card projects Back
+Card issue Card employee Open
+Card issue Card employee Click
+Card issue Card employee Back
+Card issue Card setting Open
+Card issue Card setting Click
+Card issue Card setting Back
+Card issue Card acheck Open
+Card issue Card acheck input number Open
+Card issue Card delivery Open
+Card issue Card delivery Click
+Card issue Card delivery Back
+Card issue Card check Open
+Card issue Card check Click
+Card issue Card check Back
+Card issue Success
+Card issue Error
+Card detail Open
+Card detail Card subscriptions Click
+Card detail Card acheck Click
+Card detail Card p2p incoming Click
+Card detail Card p2p outgoing Click
+Card subscriptions Open
+Card subscriptions Screen View
+Card subscriptions Click
+Card subscriptions Back
+Card subscriptions Card subscriptions activation Success
+Card subscriptions Card subscriptions cancellation Success
+Card subscriptions Card subscriptions activation Error
+Card subscriptions Card subscriptions cancellation Error
+Card MCC Open
+Card MCC Card MCC edit Open
+Card MCC Card MCC edit Success
+Card MCC Card MCC cleared Success
+Card acheck Open
+Card acheck Click
+Card acheck Card acheck input number Open
+Card acheck Card acheck enable Success
+Card acheck Card acheck disable Success
+Card acheck Card acheck change Success
+Card acheck Card acheck enable Error
+Card acheck Card acheck disable Error
+Card acheck Card acheck change Error
+Card p2p Incoming p2p delete Open
+Card p2p Outgoing p2p delete Open
+Contact with bank Support Chat Click
+Support Chat Screen Open
+Contact with bank Emails Click
+Contact with bank Emails Open
+Contact with bank Managers List Click
+Contact with bank Managers List Open
+Contact with bank Company list Open
+Contact with bank Company Click
+Contact with bank Manager Click
+Contact with bank Manager Open
+Contact with bank Call to bank Click
+Contact with bank Call to bank Open
+Contact with bank Phone number Click
+Contact with bank Screen Back Click
+Support Chat Scroll down Click
+Support Chat History Get
+Support Chat New history Get
+Support Chat Message View
+Support Chat Suggests View
+Support Chat Suggests Click
+Support Chat Suggests Error
+Support Chat Chips View
+Support Chat Chips Click
+Support Chat Chat Refresh
+Support Chat Connect Error
+Support Chat History fetch Error
+Support Chat Settings Error
+Support Chat Message deep link Click
+Support Chat Buttons View
+Support Chat Button Click
+Support Chat Button deep link Click
+Support Chat Keyboard Click
+Support Chat Message Send
+Support Chat Message Click
+Support Chat Message menu Long Tap
+Support Chat Message menu Click
+Support Chat Message menu Send
+Support Chat Choose file Click
+Support Chat File Choose
+Support Chat File Send
+Support Chat File Deliver
+Support Chat File Resend
+Support Chat File Open
+Support Chat Invalid attachment bubble View
+Support Chat Failed attachment upload Click
+Support Chat Selector View
+Support Chat Selector Send
+Support Chat Selector Click
+Support Chat Selector Close
+Support Chat Welcome page View
+Support Chat Welcome page Click
+Support Chat Welcome page Open
+Manager Phone Click
+Manager Add number Click
+Manager Email Click
+Manager Rate Click
+Manager Rate Submit
+Support Chat Search Click
+Support Chat Search results Load
+Support Chat Search result Click
+Support Chat Search Close
+Notifications settings Open
+Notifications settings Rko Click
+Rko Open
+Rko Notifications button Click
+Rko Costs Open
+Rko Events Open
+Rko Outpayment Open
+Rko Inpayment Open
+Rko Suggest Click
+Rko Events Change
+Notifications settings Schedule Open
+Notifications settings Schedule Change
+Rko Contacts Open
+Rko Phone number Change
+Rko Email Change
+Rko Signature Init Create
+Rko Signature Init Error
+Rko Signature window Close
+Rko Signing process Error
+Rko Save changes Success
+Rko Save changes Error
+App splash App theme Open
+App splash App theme Apply
+Profile App theme Click
+App theme Screen Open
+App theme Back Click
+App theme View Scroll
+App theme Save Click
+Document flow Screen Open
+Document flow Screen Load
+Document flow Button Click
+Document flow Screen Long Tap
+Document flow Change Click
+Document flow Screen Swipe
+Document preview Event Resolve
+Document flow filters Button Click
+Document flow filters Button Enter
+Create document Button Click
+Create document Change Click
+Create document Screen Open
+Select counterparty Event Add
+Edit address Address Apply
+Goods list Button Click
+Goods list Event Add
+Add signer Change Click
+Add stamp Button Click
+Add stamp Change Click
+Add stamp Event Add
+Create document Event Create
+Document preview Screen Open
+Document preview Button Click
+Edit document Event Edit
+Add status Event Select
+Widget Dashboard Screen View
+Widget Dashboard Screen Load
+Widget Dashboard Screen Back
+Widget Dashboard Screen Refresh
+Widget Dashboard Info Banner View
+Widget Dashboard Info Banner Click
+Widget Dashboard Info Banner Close
+Widget Dashboard Customize Click
+Widget Dashboard Screen Scroll
+Widget Dashboard Company Click
+Widget Dashboard Profile Click
+Widget Dashboard Push Click
+Widget Dashboard Widget View
+Widget Dashboard Widget Click
+Widget Dashboard Error View
+Widget Dashboard Snackbar Update Click
+Widget Dashboard Saved Settings Snackbar View
+Customize Widget Dashboard Screen View
+Customize Widget Dashboard Screen Back
+Customize Widget Dashboard Switch Widget Click
+Customize Widget Dashboard Move Widget Click
+Customize Widget Dashboard Popup View
+Customize Widget Dashboard Save Click
+Customize Widget Dashboard Save Bottom Sheet View
+Customize Widget Dashboard Save Bottom Sheet Exit Click
+Customize Widget Dashboard Save Bottom Sheet Close
+Customize Widget Dashboard Error View
+Customize Widget Dashboard Error Click
+My products Screen View
+My products Screen Load
+My products Screen Scroll
+My products Widget View
+My products Widget Click
+My products Error View
+Tab bar history spotlight Spotlight View
+Tab bar history spotlight Overlay Click
+Tab bar history spotlight Close Click
+Tab bar history spotlight Button Click
+Navigation Bar Show
+Navigation Bar Click
+Navigation Bar Error
+Companies Hub Screen View
+Companies Hub Screen Refresh
+Companies Hub Exit Click
+Companies Hub Banner View
+Companies Hub Banner Click
+Companies Hub Banner Close
+Companies Hub Search Click
+Companies Hub Segment Control Group View
+Companies Hub Segment Control Group Click
+Companies Hub Open account button Click
+Companies Hub Bottom sheet View
+Companies Hub Bottom sheet Click
+Companies Hub Bottom sheet Close
+Companies Hub Blocking Click
+Companies Hub Show Currency Click
+Companies Hub Tasks View
+Companies Hub Tasks Click
+myProducts Screen View
+myProducts Screen Open
+myProducts Screen Load
+myProducts Screen Scroll
+myProducts Empty Screen View
+myProducts Empty Screen Click
+myProducts Category Click
+myProducts Filters Bottom Sheet Open
+myProducts Filters Screen Open
+myProducts Filters Bottom Sheet Click
+myProducts Filters Screen Click
+myProducts Filters Bottom Sheet Apply
+myProducts Filters Screen Apply
+myProducts Filters Bottom Sheet Reset
+myProducts Filters Screen Reset
+myProducts Filters Bottom Sheet Close
+myProducts Filters Screen Close
+myProducts Screen Back
+myProducts Widget View
+myProducts Widget Click
+myProducts Deals Button Click
+myProducts Bottom Sheet View
+myProducts Error View
+myProducts Error Click
+myProducts Customize Click
+myProducts List Screen Open
+myProducts List Screen Apply
+myProducts List Screen Back
+myProducts List Screen Refresh
+myProducts List Filter Click
+myProducts List Filter Category Click
+myProducts List Product Click
+myProducts List Empty Screen View
+myProducts List Reset Click
+myProducts List Screen Scroll
+myProducts List Filter Bottom Sheet Open
+myProducts List Filters Bottom Sheet Click
+myProducts List Filters Bottom Sheet Apply
+myProducts List Filters Bottom Sheet Reset
+myProducts List Filters Bottom Sheet Close
+MyProducts coach Banner Impression
+MyProducts coach Banner Click
+MyProducts credit ghost MyProducts limit banner Impression
+"""MyProducts credit ghost MyProducts limit banner Click"
+Customize Widget My products Screen View
+Customize Widget My products Screen Back
+Customize Widget My products Switch All Widgets Click
+Customize Widget My products Switch Widget Click
+Customize Widget My products Move Widget Click
+Customize Widget My products Save Click
+Customize Widget My products Error View
+Customize Widget My products Error Click
+Deposit hub Main screen Click
+Deposit placements Deposit placements hub screen Click
+Deposit placements Deposit placements early termination screen Sign
+Deposit placements Deposit placements partial return screen Sign
+Deposit calculator Main screen Open
+Deposit calculator Main screen Select
+Deposit calculator Confirmation screen Sign
+Deposit Calculator Main Screen Open screen
+Deposit Calculator Main Screen Select product
+Deposit Calculator Main Screen Select currency
+Deposit Calculator Confirmation screen Deal signed
+Deposit Calculator Confirmation screen Deal signed error
+New accumulations Final screen Open
+New accumulations Click
+New calculator Constructor Click
+Accepted offers Main screen Click
+Accepted offers Main screen Open
+Accepted offers Confirmation screen Sign
+Open saving account Landing Open
+Open saving account Landing Click
+Open saving account Saving account hub Click
+Open saving account Confirmation screen Sign
+Open saving account Confirmation screen Open
+Account offers Main screen Click
+Account offers Main screen Open
+Account offers Confirmation screen Sign
+Account offers Confirmation screen Open
+Opening tax account Landing Screen View
+Opening tax account Account opening form Screen View
+Opening tax account Landing Click
+Opening tax account Account opening form Click
+Opening tax account Wowtax banner Screen View
+Edit saving account Edit saving account hub Click
+Edit saving account Confirmation screen Sign
+Edit saving account Confirmation screen Open
+Sms sign Sign Apply
+Sms sign Sign Success
+Pay control Sign Apply
+Pay control Sign Success
+Pay control Sign Error
+Pay control Add Click
+Pay control Add Open
+Pay control Sms confirmation Open
+Pay control Activate biometry Click
+Pay control Break connection Click
+Pay control Add Success
+Pay control Add Error
+Unify sign service Operation sign Open
+Unify sign service Operation sign cancel Click
+Unify sign service Operation sign Click
+Unify sign service Operation sign Error
+Unify sign service Operation sign list Open
+Unify sign service Connection with bank Click
+External mydss Sign Apply
+External mydss Sign Error
+External mydss Sign Success
+Unify sign service Settings Open
+Sms sign Settings Open
+Pay control Settings Open
+Unify sign service Settings Error
+Pay control Settings Error
+Sms sign Settings Error
+Pay control Promotion Open
+Pay control Promotion Click
+Pay control Break promotion Click
+Pay control Promotion Error
+Goskey nep Sign Show
+Goskey nep Pop up Show
+Goskey nep Pop up Close
+Goskey nep Sign Apply
+Goskey nep Sign Error
+Goskey nep Sign Success
+Goskey nep Sign Click
+Goskey nep Pop up button Click
+Goskey nep Sign Close
+Tap Event Start
+Tap Operation sign list Open
+Tap Operation sign Open
+Tap Operation sign cancel Click
+Tap Operation sign wait Click
+Tap Operation sign Click
+Tap Operation sign Error
+Tap Connection with bank Click
+ABM acq landing View all Impression
+ABM acq landing Business sector Select
+ABM acq landing Field amount Select
+ABM acq landing Offline button Click
+ABM acq landing Online button Click
+ABM acq landing Пакет button Click
+ABM acq landing Get call Click
+ABM acq landing Send call request Open Screen
+ABM acq landing Send request Click
+ABM acq form Step 1 Impression
+ABM acq form Account Select
+ABM acq form Go to сhat Hyperlink
+ABM acq form Continue button Click
+ABM acq form Manager emale Error
+ABM acq form Manager phone Error
+ABM acq form Tech specialists emale Error
+ABM acq form Report emale Error
+ABM acq form Step 2 Impression
+ABM acq form Add site Click
+ABM acq form Step 2 Click
+ABM acq form Online resource Error
+ABM acq form Save button Click
+ABM acq form Link Error
+ABM acq form Resource data Error
+ABM acq form Company name Error
+ABM acq form License number Error
+ABM acq form Type of activity Error
+ABM acq form Step 3 Impression
+ABM acq form Offline detail Click
+ABM acq form Online detail Click
+ABM acq form Package detail Click
+ABM acq form Send request Click
+ABM acq form Send request Impression
+ABM ecom cabinet View all Open Screen
+ABM ecom cabinet View all Impression
+ABM ecom cabinet All resources Open Screen
+ABM ecom cabinet Select resource Click
+ABM ecom cabinet Get status Impression
+ABM ecom cabinet Documents Click
+ABM ecom cabinet Help Click
+ABM ecom cabinet Resource info Open Screen
+ABM ecom cabinet How start work Hyperlink
+ABM ecom cabinet Regular partner LK Click
+ABM ecom cabinet Regular API Click
+ABM ecom cabinet Test partner LK Click
+ABM ecom cabinet Test API Click
+ABM acq status View all Impression
+ABM acq status Tarif info Click
+ABM acq status Press button to get status Click
+ABM acq status Acq done Impression
+ABM acq status Go to NIB Click
+ABM acq SBP landing View all Impression
+ABM acq SBP landing Send request Click
+ABM acq SBP form Condition Open screen
+ABM acq SBP form Step 1 Impression
+ABM acq SBP form Account Select
+ABM acq SBP form Go to сhat Hyperlink
+ABM acq SBP form Continue button Click
+ABM acq SBP form Manager emale Error
+ABM acq SBP form Manager phone Error
+ABM acq SBP form Report emale Error
+ABM acq SBP form Step 2 Impression
+ABM acq SBP form Add site Click
+ABM acq SBP form Save button Click
+ABM acq SBP form Company name Error
+ABM acq SBP form Address Error
+ABM acq SBP form Type of activity Error
+ABM acq SBP form Send request Click
+ABM acq SBP form Send request Impression
+ABM acq SBP status Status Impression
+ABM acq SBP status Send request Click
+ABM acq SBP static QR View all Impression
+ABM acq SBP static QR Create QR Click
+ABM acq SBP static QR Product or service Error
+ABM acq SBP static QR Final screen Impression
+ABM acq SBP static QR Save QR Click
+ABM acq SBP static QR Send QR Click
+ABM acq SBP static QR Cabinet Click
+ABM acq SBP dynamic QR View all Impression
+ABM acq SBP dynamic QR Create QR Click
+ABM acq SBP dynamic QR Product or service Error
+ABM acq SBP dynamic QR Ending time Error
+ABM acq SBP dynamic QR Final screen Impression
+ABM acq SBP dynamic QR Save QR Click
+ABM acq SBP dynamic QR Send QR Click
+ABM acq SBP dynamic QR To SBP Click
+ABM acq SBP cabinet View all Impression
+ABM acq SBP cabinet Select trade dot Click
+ABM acq SBP cabinet Documents Click
+ABM acq SBP cabinet Help Impression
+ABM acq SBP cabinet Create QR Click
+ABM mass payment View all Open Screen
+ABM mass payment Get call Click
+ABM mass payment Send request Click
+Referral Referrals widget Screen View
+Referral Offer Impression
+Referral Details Click
+Referral Recommendation button Click
+Referral Offer share Click
+Referral History Click
+Referral Spend Click
+Referral FAQ Click
+Referral Terms Click
+Referral Error Impression
+Referral Link Click
+Referral Back button Click
+Prelogin LPR Roadmap Open
+preloginLPR roadmap_s Open
+Prelogin LPR Roadmap Click
+preloginLPR continue_btm_roadmap_s Click
+Prelogin LPR Choose organizations Open
+preloginLPR chooseOrganizations_s Open
+Prelogin LPR Choose organizations Error
+preloginLPR errorBankrupt_chooseOrganizations_s Event
+preloginLPR errorLiquidating_chooseOrganizations_s Event
+preloginLPR errorLiquidated_chooseOrganizations_s Event
+preloginLPR errorReorganizing_chooseOrganizations_s Event
+Prelogin LPR Confirmation Open
+preloginLPR confirmation_s Open
+preloginLPR refuse_btm_confirmation_s Click
+preloginLPR confirm_btm_confirmation_s Click
+Prelogin LPR Request info send Open
+preloginLPR requestInfoSend_s Open
+Prelogin LPR Request info send Click
+preloginLPR itsClear_btm_requestInfoSend_s Click
+Prelogin LPR Product Open
+preloginLPR product_s Open
+Prelogin LPR Product Click
+preloginLPR continue_btm_product_s Click
+Prelogin LPR Product Error
+preloginLPR productNotSelected_product_s Event
+Prelogin LPR Contacts Open
+preloginLPR contacts_s Open
+preloginLPR sendSelf_contacts_s Event
+preloginLPR sendNotSelf_contacts_s Event
+Prelogin LPR Contacts Click
+Prelogin LPR Assignees Open
+Prelogin LPR Assignees Click
+Prelogin LPR Method Open
+Prelogin LPR Method Click
+Prelogin LPR Success Open
+preloginLPR success_s Open
+Prelogin LPR Load data error Error
+preloginLPR errorServer_название экрана_s Event
+Prelogin LPR Network error Error
+preloginLPR errorNetwork_название экрана_s Event
+Prelogin LPR Add error Error
+preloginLPR errorAddCompany_confirmation_s Event
+Prelogin LPR Send application error Error
+Notification center Bell Click
+Notification center Notification Open
+Notification center Notification Action
+Notification center Filter Open
+Notification center Filter Action
+Notification center Message Open
+Notification center Message Click
+Notification center Load data error Error
+Notification center Network error Error
+MB Connect Multibank_btn_profileTab_s Click
+MB Connect Multibank list Open
+MB Connect Multibank list Load
+MB Connect Multibank list Click
+MB Connect Filter Open
+MB Connect Company filter Open
+MB Connect Bank filter Open
+MB Connect Multibank list Apply
+MB Connect Select organization Open
+MB Connect Select bank Open
+MB Connect Roadmap Open
+MB Connect Roadmap Click
+MB Connect Loader Open
+MB Connect Loader Error
+MB Connect Connect success Open
+MB Connect Connect fail Open
+MB Connect Action Open
+MB Connect Action Click
+MB Connect Disconnect Open
+MB Connect Disconnect Click
+MB Connect Disconnect success Open
+MB Connect Disconnect fail Open
+MB Connect Network error Error
+MB Connect Load data error Error
+Executor LPR Button Click
+RoadMap LPR Button Click
+Conditions LPR Button Click
+RoadMap LPR Screen Open
+Conditions LPR Screen Open
+Sign LPR Button Click
+Sign LPR Result screen Success
+Sign LPR Result screen Error
+Guarantee LPR Screen guarantee Open
+Guarantee LPR Button Click
+Guarantee LPR Button send Click
+Guarantee LPR Result screen Success
+Guarantee LPR Result screen Error
+Account remaping Deal card Swipe Left
+Deals LPR Deal card Long Tap
+Deals LPR Bottom sheet Choose
+Leasing application LPR Application Open
+Leasing application LPR Button Click
+Leasing application LPR Result screen Success
+Leasing application LPR Result screen Error
+Deals LPR Screen Open
+Contact manager LPR Button Click
+Contact with bank Screen Open
+Chat with bank Alert not manager Click
+Chat with bank Alert more 100 chats Click
+Chat with bank Chat members Open
+Chat with bank Chat members Click
+Chat with bank Search members Click
+Chat with bank Company Choose
+Chat with bank About managers Click
+Chat with bank About managers Open
+Chat with bank Members limit Error
+Chat with bank Chat title Open
+Chat with bank Completing creation Click
+Chat with bank Dialogue Open
+Chat with bank Message input field Click
+Chat with bank Message Send
+Chat with bank Menu Click
+Chat with bank Search in dialogue Click
+Chat with bank Menu Open
+Chat with bank Edit name chat Click
+Chat with bank Edit name chat Save
+Chat with bank Edit members Click
+Chat with bank Alert chat missing Open
+Chat with bank Write manager Click
+Chat with bank Alert not manager Open
+Chat with bank Alert not chat Open
+Chat with bank Alert few chats Open
+Deals CIB Screen Open
+Roadmap CIB Button Click
+Conditions CIB Button Click
+Roadmap CIB Screen Open
+Conditions CIB Screen Open
+Chat btn deal CIB Button Click
+Deals CIB error Event Error
+List deals CIB load Event Open
+List deals CIB Screen Open
+Roadmap CIB error Event Error
+Conditions CIB error Event Error
+List deals CIB error Event Error
+SBP B2B payment Payment link Create
+SBP B2B payment Onboarding View
+SBP B2B payment Payment link Open
+SBP B2B payment Back button Click
+SBP B2B payment Payment Submit
+SBP B2B payment Limits View
+SBP B2B payment Hint View
+Rate settings Conf LPR Screen Screen View
+Rate settings Conf LPR Pop-up alert Screen View
+Rate settings Conf LPR Back Click
+Rate settings Conf LPR Continue Click
+Rate settings Conf LPR Chat Click
+Cross product Conf LPR Screen Screen View
+Cross product Conf LPR Back Click
+Cross product Conf LPR Save Click
+Cross product Conf LPR Validation Error
+Rate settings Conf LPR Save change Error
+Cross product Conf LPR Save change Error
+Rate settings Conf LPR Result screen Error
+Universal offer LPR Screen Open
+Universal offer LPR Details button Click
+Universal offer LPR Chat Click
+Universal offer LPR Approve button Click
+Universal offer LPR Send button Click
+Universal offer LPR Result screen Success
+Universal offer LPR Result screen Error
+Universal offer LPR Alert Error
+Universal offer LPR Not available Error
+Universal offer LPR Send error button Click
+Universal offer LPR Success screen button Click
+Universal offer LPR Snakbar Error
+Offer with configuration LPR RoadMap Open
+Offer with configuration LPR Continue button Click
+Offer with configuration LPR Executor button Click
+Offer with configuration LPR Send button Click
+Offer with configuration LPR Result screen Success
+Offer with configuration LPR Result screen Error
+Offer with configuration LPR Alert Error
+Offer with configuration LPR Success screen button Click
+Check in  products list LPR Screen Open
+Check in  LPR Search Open
+Check in  LPR Search Choose
+Check in  LPR Search Close
+Check in  products list LPR Continue button Click
+Check in  products list LPR Snackbar Error
+Check in  LPR Screen Open
+Check in  LPR Modal Open
+Check in  LPR Modal Click
+Check in  LPR Add product button Click
+Check in  LPR Continue button Click
+Check in  LPR Validation Error
+Check in  LPR Result screen Success
+Check in  LPR Result screen Click
+Check in  LPR Result screen Close
+Check in  LPR Alert Error
+Check in  LPR Send error button Click
+Check in  products list LPR Send error button Click
+Digital ruble main screen Transfer Click
+Digital ruble main screen History Click
+ABSC Contract list screen Open Screen
+ABSC Contract list screen Error
+ABSC Contract list screen Screen View
+ABSC Button contract list screen Back
+Statement export Export form Open
+Statement export Export form Error
+Statement export Export form Submit
+Statement export Export form Close
+Statement export Export extra filters Open
+Statement export Export extra filters Clean
+Statement export Export extra filters Submit
+Statement export Onboarding View
+Statement export Processing status alert View
+Statement export Succeed statement View
+Statement export Succeed statement Open
+Statement export Succeed statement Delete
+Statement export Succeed statement Send
+Statement export Failed statement View
+Statement export Failed statement Repeat
+Statement export Retried statement View
+Statement export Retried statement Repeat
+Scheduled statement Creation form Open
+Scheduled statement Statement rules View
+Scheduled statement Validation Error
+Scheduled statement Creation form Submit
+Scheduled statement One more scheduled statement button Click
+Scheduled statement List Open
+Scheduled statement Create button Click
+Scheduled statement Quick actions View
+Scheduled statement Edit button Click
+Scheduled statement Delete button Click
+Scheduled statement Edition from Open
+Scheduled statement Edition from Submit
+Scheduled statement Edition from Cancel
+Scheduled statement Creation form Close
+Scheduled statement List Close
+Currency exchange VED Exchange rates button Click
+Currency exchange VED Exchange rates widget Click
+Currency exchange VED Exchange types tab Click
+Currency exchange VED Exchange document Click
+Currency exchange VED Create operation button Click
+Currency exchange VED Exchange rate types tab Click
+Currency exchange VED Currency settings button Click
+Currency exchange VED Currency display toggle Click
+Currency exchange VED Cancel order button Click
+Currency exchange VED Confirm order cancellation button Click
+Currency exchange VED Undo order cancellation button Click
+Currency exchange VED Conversion types tab Click
+Currency exchange VED Swap accounts button Click
+Currency exchange VED Quick period chip Click
+Currency exchange VED Order expiration date select Click
+Currency exchange VED Order expiration time select Click
+Currency exchange VED Forced execution toggle Click
+Currency exchange VED Exchange sign and send button Click
+Currency exchange VED Operations list Scroll
+Currency exchange VED Currencies list Scroll
+Currency exchange VED Operations details Scroll
+Currency exchange VED Document list View
+Currency exchange VED Currencies list View
+Currency exchange VED Currency settings screen View
+Currency exchange VED Create operation screen View
+Currency exchange VED Operations details View
+Currency exchange VED Operations signing screen View
+Currency exchange VED No currency accounts screen View
+Currency exchange VED Loading error screen View
+Currency exchange VED No connection screen View
+Currency control VED Search field Click
+Currency control VED Filters button Click
+Currency control VED Quick filter Click
+Currency control VED Contract document Click
+Currency control VED Create contract button Click
+Currency control VED Filters Scroll
+Currency control VED Contracts list Scroll
+Currency control VED Contracts list View
+Currency control VED No access list screen View
+Currency control VED Loading error list screen View
+Currency control VED No connection list screen View
+Currency control VED Contracts comment Click
+Currency control VED Contracts download file button Click
+Currency control VED VBK file generation button Click
+Currency control VED OOS file generation button Click
+Currency control VED Contracts action button Click
+Currency control VED OOS file generation confirmation button Click
+Currency control VED Contract details screen View
+Currency control VED Contract details screen Scroll
+Currency control VED Contract file downloading screen View
+Currency control VED VBK file generation screen View
+Currency control VED Contract signing screen View
+Currency control VED Loading error details screen View
+Currency control VED No connection details screen View
+Currency control VED New contract screen View
+Currency control VED New contract button Click
+Currency control VED Contract transfer button Click
+Currency control VED Assign UNK toggle Click
+Currency control VED Draft contract toggle Click
+Currency control VED Urgency toggle Click
+Currency control VED Contract number field Click
+Currency control VED Contract begin date field Click
+Currency control VED Contract end date field Click
+Currency control VED Contract currency field Click
+Currency control VED Contract amount field Click
+Currency control VED Add contractor button Click
+Currency control VED Attach contracts file button Click
+Currency control VED UNK field Click
+Currency control VED Contractors screen View
+Currency control VED Manual contractor entry tab Click
+Currency control VED Contractor name in Russian toggle Click
+Currency control VED Contractor name field Click
+Currency control VED Contractor country field Click
+Currency control VED Affiliated entity toggle Click
+Currency control VED Delete contractor button Click
+Currency control VED Exit without saving modal View
+Currency control VED Exit without saving button Click
+Currency control VED Stay button Click
+Currency control VED Final action button Click
+Currency control VED Other final actions button Click
+Currency control VED Other final action Click
+Currency control VED Contract creation final screen View
+Currency control VED No access create screen View
+Currency control VED Loading error create screen View
+Currency control VED No connection create screen View
+Revenue notifications VED Search field Click
+Revenue notifications VED Filters button Click
+Revenue notifications VED Quick filter Click
+Revenue notifications VED Revenue notification document Click
+Revenue notifications VED Filters Scroll
+Revenue notifications VED Revenue notifications list Scroll
+Revenue notifications VED Revenue notifications list View
+Revenue notifications VED No access list screen View
+Revenue notifications VED Loading error list screen View
+Revenue notifications VED No connection list screen View
+Revenue notifications VED Apply filters button Click
+Revenue notifications VED Revenue notifications filters View
+Revenue notifications VED Apply period filter button Click
+Revenue notifications VED Apply account filter button Click
+Revenue notifications VED Apply document status filter button Click
+Revenue notifications VED Remaining amount Click
+Revenue notifications VED Swift message Click
+Revenue notifications VED Create rsts button Click
+Revenue notifications VED Download revenue notification button Click
+Revenue notifications VED Revenue notification details screen View
+Revenue notifications VED Revenue notification details screen Scroll
+Revenue notifications VED No access detail screen View
+Revenue notifications VED Loading error detail screen View
+Revenue notifications VED No connection detail screen View
+Currency payments VED Payments types tab Click
+Currency payments VED Search field Click
+Currency payments VED Filters button Click
+Currency payments VED Quick filter Click
+Currency payments VED Currency payment document Click
+Currency payments VED Filters Scroll
+Currency payments VED Currency payments list Scroll
+Currency payments VED Currency payments list View
+Currency payments VED No access list screen View
+Currency payments VED Loading error list screen View
+Currency payments VED No connection list screen View
+Currency payments VED Apply filters button Click
+Currency payments VED Currency payments filters View
+Currency payments VED Apply period filter button Click
+Currency payments VED Apply account filter button Click
+Currency payments VED Apply document status filter button Click
+Currency payments VED Status bar Click
+Currency payments VED Download swift button Click
+Currency payments VED Kvo description Click
+Currency payments VED Download currency payment attachment button Click
+Currency payments VED Download currency payment button Click
+Currency payments VED Currency payment final screen View
+Currency payments VED Currency payment details screen View
+Currency payments VED Currency payment details screen Scroll
+Currency payments VED No access detail screen View
+Currency payments VED Loading error detail screen View
+Currency payments VED No connection detail screen View
+Ruble payment nonresident New ruble payment nonresident screen View
+Ruble payment nonresident Payment number field Click
+Ruble payment nonresident Payment date field Click
+Ruble payment nonresident Russia button Click
+Ruble payment nonresident Russian contractor feild Click
+Ruble payment nonresident Russian inn feild Click
+Ruble payment nonresident Russian kpp feild Click
+Ruble payment nonresident Russian bik feild Click
+Ruble payment nonresident Russian account number field Click
+Ruble payment nonresident Foreign button Click
+Ruble payment nonresident Foreign contractor feild Click
+Ruble payment nonresident Foreign account number field Click
+Ruble payment nonresident Foreign corraccount number field Click
+Ruble payment nonresident Foreign swift field Click
+Ruble payment nonresident Foreign bank name field Click
+Ruble payment nonresident Foreign inn field Click
+Ruble payment nonresident Foreign corrbik field Click
+Ruble payment nonresident Debit account button Click
+Ruble payment nonresident Amount field Click
+Ruble payment nonresident Comission button Click
+Ruble payment nonresident Additional info button Click
+Ruble payment nonresident Continue button Click
+Ruble payment nonresident Choose contract button Click
+Ruble payment nonresident Contractor field Click
+Ruble payment nonresident Kvo field Click
+Ruble payment nonresident Advance return date field Click
+Ruble payment nonresident Expected delivery date field Click
+Ruble payment nonresident Comment field Click
+Ruble payment nonresident Attach payment file button Click
+Ruble payment nonresident Purpose hint button Click
+Ruble payment nonresident Purpose field Click
+Ruble payment nonresident Nds button Click
+Ruble payment nonresident Nds toggle Click
+Ruble payment nonresident New contract button Click
+Ruble payment nonresident Contract number field Click
+Ruble payment nonresident Contract date field Click
+Ruble payment nonresident More than a million toggle Click
+Ruble payment nonresident Execute date field Click
+Ruble payment nonresident Urgency field Click
+Ruble payment nonresident Priority field Click
+Ruble payment nonresident Notification toggle Click
+Ruble payment nonresident Email field Click
+Ruble payment nonresident Phone number field Click
+Ruble payment nonresident Final action button Click
+Ruble payment nonresident Other final actions button Click
+Ruble payment nonresident Other final action Click
+Ruble payment nonresident Creation final screen View
+Currency payments VED New currency payment screen View
+Currency payments VED New currency payment screen Click
+Currency payments VED Payment date field Click
+Currency payments VED Debit account button Click
+Currency payments VED Amount field Click
+Currency payments VED Comission hint button Click
+Currency payments VED Comission type field Click
+Currency payments VED Comission account button Click
+Currency payments VED Continue button Click
+Currency payments VED Other final actions button Click
+Currency payments VED Choose contract button Click
+Currency payments VED Contract field Click
+Currency payments VED Kvo field Click
+Currency payments VED Advance return date field Click
+Currency payments VED Expected delivery date field Click
+Currency payments VED Comment field Click
+Currency payments VED Attach docs toggle Click
+Currency payments VED Attach payment file button Click
+Currency payments VED New contract button Click
+Currency payments VED Contract number field Click
+Currency payments VED Contract date field Click
+Currency payments VED More than a million toggle Click
+Currency payments VED Сontractor feild Click
+Currency payments VED Country field Click
+Currency payments VED City field Click
+Currency payments VED Address toggle Click
+Currency payments VED Iban field Click
+Currency payments VED Swift field Click
+Currency payments VED Clearing field Click
+Currency payments VED Clearing hint button Click
+Currency payments VED Corr bank toggle Click
+Currency payments VED Corr bank hint button Click
+Currency payments VED Corr bank account Click
+Currency payments VED Swift corrbank field Click
+Currency payments VED Clearing corrbank field Click
+Currency payments VED Clearing corrbank hint button Click
+Currency payments VED Meaning field Click
+Currency payments VED Show contract info toggle Click
+Currency payments VED Meaning hint Click
+Currency payments VED Show contract info toggle hint Click
+Currency payments VED Code field Click
+Currency payments VED Your message field Click
+Currency payments VED Add code button Click
+Currency payments VED Delete code button Click
+Currency payments VED Execute date field Click
+Currency payments VED Urgency field Click
+Currency payments VED Notification toggle Click
+Currency payments VED Email field Click
+Currency payments VED Phone number field Click
+Currency payments VED Other final action Click
+Currency payments VED Creation final screen View
+Currency payments VED Downloaв form button Click
+Currency payments VED Cny banner Click
+Currency payments VED Branch field Click
+Currency payments VED Hs code field Click
+Currency payments VED Add hs code button Click
+Currency payments VED Delete hs code button Click
+Currency payments VED Inr banner Click
+Currency payments VED Fill purpose rules banner Click
+Currency payments VED Purpose code field Click
+Currency payments VED Bin iin field Click
+Currency payments VED Bin iin hint button Click
+Currency payments VED Calendar screen View
+Currency payments VED Debit account screen View
+Currency payments VED Commission type screen View
+Currency payments VED Commission account screen View
+Currency payments VED Contracts screen View
+Currency payments VED Kvo screen View
+Currency payments VED Contractors screen View
+Currency payments VED Swifts screen View
+Currency payments VED Countries screen View
+Currency payments VED Credit accounts screen View
+Currency payments VED Codes screen View
+Currency payments VED Urgency type screen View
+Currency payments VED Identification codes screen View
+Currency payments VED Industries screen View
+Currency payments VED Purpose сodes screen View
+Trade acquiring landing Landing Impression
+Trade acquiring landing Get call Success
+Trade acquiring landing Get form Click
+Trade acquiring application Get call Success
+Trade acquiring application Step 1 Impression
+Trade acquiring application Step 2 Impression
+Trade acquiring application Step 3 Impression
+Trade acquiring cabinet Cabinet Impression
+Trade acquiring cabinet Landing Click
+Trade acquiring cabinet Application Click
+Trade acquiring application Success Impression
+Trade acquiring cabinet Trade spot Impression
+Trade acquiring cabinet Trade spot Edit
+Trade acquiring cabinet Document list Impression
+Trade acquiring cabinet Document list Load
+Trade acquiring cabinet Document list Sign
+Trade acquiring cabinet Document list Reject
+Trade acquiring cabinet Document list Edit
+Trade acquiring cabinet Operation history Impression
+Trade acquiring cabinet Operation history Change Tab
+Trade acquiring operation history Filter Change
+Trade acquiring operation history Hint Impression
+Trade acquiring operation history Info Impression
+Trade acquiring operation history Refund Click
+Trade acquiring operation history Info Copy
+Trade acquiring operation history Operation history Load
+Trade acquiring operation history Email Change
+Trade acquiring delivery info Cabinet Impression
+Trade acquiring delivery info Trade spot Impression
+Trade acquiring delivery info Cabinet Click
+Trade acquiring delivery info Trade spot Click
+Trade acquiring delivery info Support Click
+Trade acquiring delivery Button Impression
+Trade acquiring delivery Delivery Impression
+Trade acquiring delivery Button Close
+Trade acquiring delivery Check Click
+Trade acquiring delivery Delivery Click
+Trade acquiring delivery Delivery Error
+Trade acquiring delivery Info Click
+Trade acquiring delivery Info Copy
+Trade acquiring delivery Delivery Close
+Trade acquiring cabinet Change tariff Success
+Trade acquiring application Delegate Impression
+Trade acquiring application Delegate Click
+Trade acquiring application Delegate Error
+Trade acquiring application Delegate Success
+Trade acquiring application Draft Impression
+Trade acquiring application Draft Apply
+Trade acquiring application Draft Reject
+Trade acquiring application Error Impression
+Trade acquiring cabinet Terminate deal Success
+Trade acquiring cabinet Banner Impression
+Trade acquiring cabinet Banner Click
+Trade acquiring amultipay application Application Impression
+Trade acquiring amultipay application Application Fail
+Trade acquiring amultipay application Application Reject
+Trade acquiring amultipay application Application Success
+Trade acquiring amultipay application Application Error
+Trade acquiring cabinet Terminate deal game Impression
+Trade acquiring cabinet Terminate deal game Reject
+Trade acquiring cabinet Terminate deal game Click
+Trade acquiring cabinet Terminate deal game Success
+Trade acquiring cabinet Terminate deal game Error
+Trade acquiring trade spot New trade spot Click
+Trade acquiring trade spot New trade spot Success
+Trade acquiring trade spot New trade spot Error
+Trade acquiring trade spot New terminal Click
+Trade acquiring trade spot New terminal Success
+Trade acquiring trade spot New terminal Error
+Trade acquiring trade spot Trade spot Edit
+Trade acquiring trade spot Create QR code Impression
+Trade acquiring trade spot Create QR code Click
+Trade acquiring trade spot Create QR code Success
+Trade acquiring trade spot Create QR code Error
+Trade acquiring trade spot Create QR code Load
+Trade acquiring trade spot Create QR code Share
+Trade acquiring trade spot Chat Click
+messages Hint View
+messages Hint Close
+messages Hint Click
+messages Hint Fail
+CreditSB ABM Open cred request Open
+CreditSB ABM Credit properties Click
+CreditSB ABM Credit product Select
+CreditSB ABM Credit product Click
+CreditSB ABM Credit target Select
+CreditSB ABM Credit amount Edit
+CreditSB ABM Credit term Edit
+CreditSB ABM Comment Edit
+CreditSB ABM Show modal Impression
+KPN application LPR ChooseOrganizations_KPN_LPR Open screen
+KPN application LPR Application Open
+KPN application LPR Continue button Click
+KPN application LPR Send button Click
+KPN application LPR Result screen Success
+KPN application LPR Browser navigate button Click
+KPN application LPR Deals button Click
+KPN application LPR Send error button Click
+KPN application LPR Chat Open
+CreditSB ABM Correspondent address Edit
+CreditSB ABM Show OKVED Impression
+CreditSB ABM Main OKVED Click
+CreditSB ABM Additional OKVED Edit
+CreditSB ABM Show KPP error Impression
+CreditSB ABM OKVED null Error
+CreditSB ABM OPF null Error
+CreditSB ABM Registration date null Error
+CreditSB ABM Open signatory card Click
+CreditSB ABM Show signatory card Impression
+CreditSB ABM Phone number missing Impression
+CreditSB ABM Edit INN Edit
+CreditSB ABM Show passport missing banner Impression
+CreditSB ABM Save signatory button Save
+CreditSB ABM Save signatory validation Error
+CreditSB ABM Signatory SNILS validation Error
+CreditSB ABM Signatory INN validation Error
+CreditSB ABM Personal data validation error Error
+CreditSB ABM Signatory missing error Impression
+CreditSB ABM Show required guarantors page Impression
+CreditSB ABM Show optional guarantors page Impression
+CreditSB ABM Capital share sum check Impression
+CreditSB ABM Capital share sum validation error Error
+CreditSB ABM Choose guarantor Click
+CreditSB ABM Open main guarantor card Click
+CreditSB ABM Open additioanl guarantor card Click
+CreditSB ABM Show guarantor card Impression
+CreditSB ABM Passport number Edit
+CreditSB ABM Issue date Click
+CreditSB ABM Authority code Edit
+CreditSB ABM Authority name Edit
+CreditSB ABM Birth date Click
+CreditSB ABM Birth place Edit
+CreditSB ABM Choose sex Click
+CreditSB ABM Registration address Edit
+CreditSB ABM Actual address is diff Click
+CreditSB ABM Actual address Edit
+CreditSB ABM Registration date Click
+CreditSB ABM Save guarantor button Save
+CreditSB ABM Save guarantor validation error Error
+CreditSB ABM Save guarantor service error Error
+CreditSB ABM Guarantor SNILS validation Error
+CreditSB ABM Guarantor SNILS validation error Error
+CreditSB ABM Passport validation Error
+CreditSB ABM Passport validation error Error
+Welcome animation Open
+Survey Welcome Close
+Survey Welcome Open
+Survey Success Open
+Survey Success Close
+Survey Success Click
+Survey Question Open
+Survey Question Close
+Survey Question Click
+Survey Question Back
+Survey Question Scroll
+Survey Question Error
+Survey Question Try
+Survey Question Select
+Survey Question Clean
+Survey Condition Select
+Survey Snackbar Impression
+Onboarding mmb Spotlight Impression
+Onboarding mmb Spotlight Close
+Onboarding mmb Spotlight Start
+Onboarding mmb Spotlight Choose
+Onboarding mmb Onboarding widget Impression
+Onboarding mmb Onboarding widget Scroll
+Onboarding mmb Onboarding widget Click
+Onboarding mmb Onboarding agreement Open
+Onboarding mmb Onboarding agreement Back
+Onboarding mmb Onboarding agreement Close
+Onboarding mmb Onboarding scenario Open
+Onboarding mmb Onboarding scenario Fail
+Onboarding mmb Onboarding scenario Try
+Onboarding mmb Onboarding scenario Start
+Onboarding mmb Onboarding scenario Reject
+Onboarding mmb Onboarding scenario Save
+Onboarding mmb Onboarding scenario Delete
+Onboarding mmb Onboarding scenario Play
+Onboarding mmb Onboarding scenario Full screen
+Onboarding mmb Onboarding scenario Finish
+Onboarding mmb Onboarding scenario Hide
+Onboarding mmb Onboarding tile Impression
+Onboarding mmb Onboarding widget view Impression
+Activation Retention Activation multioffer Load
+Activation Retention Activation multioffer Success
+Activation Retention Activation multioffer Choose
+Activation Retention Payment hub Target
+Retention Retention multioffer Open
+Retention Retention multioffer Success
+Retention Retention multioffer Click
+Retention Retention multioffer Cancel
+Retention Retention multioffer Back
+Retention Retention offer Open
+Retention Retention offer Back
+Retention Retention offer Click
+Retention Retention offer Success
+Retention Retention offer success Open
+Retention Retention offer success Click
+Retention Retention offer success Close
+Retention Retention offer Try
+Activation Retention Retention offer Try
+Retention Retention repeated offer Open
+Retention Retention repeated offer Success
+Retention Retention repeated offer Close
+Retention Retention repeated offer Back
+Retention Retention multioffer Try
+Activation Retention Retention multioffer Try
+Company card Business card Click
+Company card Share business card Click
+Business card Customize Submit
+Business card Customize Close
+Business card Customize Success
+Business card Customize Error
+Profile Active session Click
+Active session Change password Click
+Profile History action Click
+History action Change password Click
+History action Blocking user Click
+History action Blocking user Submit
+History action Blocking user Close
+History action Blocking user Success
+History action Blocking user Error
+History action Disable user Click
+History action Disable user Submit
+History action Disable user Close
+History action Disable user Success
+History action Disable user Error
+History action Load failure Error
+Profile Trusted networks Click
+Trusted networks Add network Click
+Trusted networks Add network Close
+Trusted networks Add network Submit
+Trusted networks Add network Success
+Trusted networks Add network Error
+Trusted networks Edit network Click
+Trusted networks Edit network Submit
+Trusted networks Edit network Success
+Trusted networks Edit network Error
+Trusted networks Edit network Close
+Trusted networks Delete network Click
+Trusted networks Delete network Submit
+Trusted networks Delete network Close
+Trusted networks Delete network Success
+Trusted networks Delete network Error
+Trusted networks Switch network Click
+Trusted networks Switch network Close
+Role model users New Click
+Role model users new Continue Click
+Role model users new Exit Click
+Role model users new Save Click
+Role model users new Done Submit
+Role model users new Done Success
+Role model users new Done Fail
+Global search Screen View
+Global search Search result Action
+Global search Search result Click
+Global search Retry button Click
+Global search History Click
+Global search History Swipe Left
+Global search Hint Click
+Global search Suggest Click
+Global search Spotlight Close
+Global search Spotlight Start
+AI summarizer AI response View
+AI summarizer AI response hyperlink Click
+AI summarizer Rating Click
+AI summarizer Chat button Click
+AI summarizer AI response Expand
+Cash order Webview navigation Open
+ABM advertisements Banner Impression
+ABM advertisements Banner Click
+ABM advertisements Banner Close
+ABM advertisements Banner Deliver
