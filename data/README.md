@@ -63,18 +63,13 @@ dup_type (str)  — тип пары
 
 ```
 ├── data/
-│   ├── taxonomy_duplicates_balanced.csv   ← исходный датасет
+│   ├── real_event_name_list.csv           ← cписок реальных событий для геренрации синтетического датасета
+│   ├── taxonomy_duplicates_balanced.csv   ← сгенерированный датасет
 │   ├── pairs_full_processed.csv           ← с вычисленными признаками
 │   ├── pairs_train.csv                    ← 70% (35020 пар)
 │   ├── pairs_val.csv                      ← 15% (7480 пар)
 │   └── pairs_test.csv                     ← 15% (7500 пар)
-├── notebooks/
 │   └── eda_notebook.ipynb                 ← EDA + предобработка + выводы
-├── figures/
-│   ├── fig1_dataset_overview.png
-│   ├── fig2_char_sim.png
-│   ├── fig3_lexical.png
-│   └── fig4_features.png
 └── README.md
 ```
 
